@@ -10,7 +10,7 @@ Encontrar e fazer pequena nota sobre decisões nacionais relativas à *(i)* Conv
 
 ## Prazo
 
-Final de março.
+Início de junho.
 
 ## Língua
 
