@@ -87,11 +87,29 @@ Cita, sobre o artigo 5.º/1/*b)* do Regulamento 44/2001 (atualmente, artigo 7.º
 
 Este acórdão também se pronuncia sobre o [artigo 71.º]{STJ6471}
 
+# Artigo 26.º
+## STJ
+### Acórdão de 12 de novembro de 2020, proc. 740/17.5T8LMG.C1.S1
+
+Cita os seguintes acórdãos do TJUE sobre pacto tácito de jurisdição:
+
+- acórdão de 27 de Fevereiro de 2014, C-1/13;
+- acórdão de 20 de Maio de 2010, C-111/09;
+- acórdão de 17 de Março de 2016, C-175/15;
+- acórdão de 13 de junho de 2013, C-144/12.
+
+Cita acórdãos do STJ sobre pacto tácito de jurisdição:
+
+- acórdão do STJ de 10 de Maio de 2007, proc. 72/07; 
+- acórdão do STJ de 8 de Novembro de 2007, proc. 3497/06;
+- acórdão do STJ de 14 de Outubro de 2014, proc. 147/13.3TVPRT-A.C1.S1; e
+- acórdão do STJ de 14 de Dezembro de 2017, proc. 143378/15.0YIPRT.G1.S1 (**destaca este**). 
+
 # Artigo 71.º (relações com convenções internacionais)
 
 ## STJ
 
-### Acórdão de 17 de novembro de 2020, proc. 6471/17.9T8BRG.G1.S1{#STJ6471}
+### Acórdão de 17 de novembro de 2020, proc. 6471/17.9T8BRG.G1.S1 {#STJ6471}
 
 **Objeto do litígio:** contrato de transporte de mercadorias por estrada, cujo local de carregamento ou recolha de mercadorias (a cargo do transportador) foi Esmeriz/Portugal, e o de entrega era Copenhaga/Dinamarca.
 
