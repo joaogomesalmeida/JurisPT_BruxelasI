@@ -136,6 +136,19 @@ Cita:
 
 Estende a parte decisória do acórdão *Peter Rehder* à Convenção de Lugano II, por via da identidade de redação de preceitos.
 
+### Acórdão do STJ de 13 de novembro de 2018, proc. 6919/16.0T8PRT.G1.S1 {#STJ6919}
+
+**Objeto do litígio:** contrato de compra e venda de bens internacional. "pacto de jurisdição" constante de notas de confirmação da encomenda. Sociedade vendedora (autora e recorrente) tem sede em Portugal; sociedade compradora (ré e recorrida) tem sede na Itália. A entrega dos bens ocorreu em Itália.
+
+O STJ entendeu que não havia pacto de jurisdição.
+
+Cita os seguintes acórdãos do STJ:
+- ASTJ de 14.12.2017, com indicação de jurisprudência comunitária;
+- acórdãos de 5.4.2016;
+- acórdão de 14.10.2004.
+
+Aplicou corretamente o artigo 7.º/1/*b)*.
+
 # Artigo 24.º (Competências exclusivas)
 
 ## STJ
@@ -202,6 +215,46 @@ e
 > "O segmento “a menos que o pacto seja, nos termos da lei desse Estado-Membro, substantivamente nulo” desempenha a função de harmonizar o do art. 25.º do Regulamento com o art. 5.º da Convenção de Haia de 30 de Junho de 2005 sobre os acordos de eleição do foro.
 
 > O relatório explicativo da Convenção de Haia de 30 de Junho de 2005 distingue entre motivos formais e motivos não formais, relativos a uma invalidade de mérito e, distinguindo-os, diz que os motivos não formais, relativos a uma invalidade de mérito, são sobretudo “motivos geralmente reconhecidos”, como o erro, o dolo, a coacção ou a incapacidade — não são motivos relacionados com as regras de competência interna da ordem jurisdicional designada."
+
+### Acórdão do STJ de 8 de maio de 2019, proc. 27393/17.0T8LSB.L1.S1
+
+**Objeto do litígio:** relação de trabalho entre trabalhadora AA, que no final da execução do contrato (27 de julho a novembro de 2016) tinha domicílio em Portugal, e empregadora BB, organização internacional com sede em nos Países Baixos, sustentado em dois contratos de trabalho. Em ambos os contratos se estabeleceu pacto de jurisdição exclusivo a favor dos tribunais ingleses e galeses.
+
+Decisão da 1.ª Instância e da Relação aplicaram erradamente o artigo 25.º/4 e o artigo 23.º do Regulamento Bruxelas I *bis*.
+
+O problema mais interessante parecer ser o facto de a relação laboral ser contestada pela "empregadora" BB.
+
+Cita do TJ:
+- Acórdão de 10 de setembro de 2015, C-47/14
+- Acórdão de 29 de setembro de 2007, C-116/06
+- Acórdão de 19 de julho de 2012, C-154/11
+- Acórdão de 14 de setembro de 2017, C-168/16 e C-169/16 
+
+STJ utiliza a configuração da ação pela autora para verificar se há probabilidade de a relação ser laboral e, como responde afirmativamente a esta questão, declara inválidos os pactos de jurisdição porque eles retiram ao (putativo) trabalhador a possibilidade de intentar a ação num dos foros do artigo 21.º do Regulamento Bruxelas I *bis*, violando assim o artigo 25.º/4 e 23.º do mesmo Regulamento.
+
+### Acórdão do STJ de 13 de novembro de 2018, proc. 6919/16.0T8PRT.G1.S1
+
+**Objeto do litígio:** contrato de compra e venda de bens internacional. "pacto de jurisdição" constante de notas de confirmação da encomenda. Sociedade vendedora (autora e recorrente) tem sede em Portugal; sociedade compradora (ré e recorrida) tem sede na Itália. A entrega dos bens ocorreu em Itália.
+
+Noção autónoma de pacto de jurisdição.
+
+Cita os seguintes acórdãos do TJ:
+- Acórdão de 5 de dezembro de 2013, *Vapenik v. Thurner*, C‑508/12, EU:C:2013:790;
+- Acórdão de 11 de julho de 1985, *Berghofer/Asa*, 221/84;
+- Acórdão de 8 de março de 2018, *Saey Home & Garden v. Lusavouga*, C-64/17, EU:C:2018:173
+
+Cita os seguintes acórdãos do STJ:
+- 31.4.2016, 
+- 17.3.2016, 
+- 4.2.2016,
+- 26.1.2016,
+- 19.11.2015,
+- 11.2.2015,
+- 9.9.2014
+
+Seguindo o Acórdão *Saey Home & Garden v. Lusavouga*, no qual se entendeu que "uma cláusula atributiva de jurisdição está estipulada nas cláusulas contratuais gerais, o Tribunal de Justiça já decidiu que essa cláusula é lícita caso o próprio texto do contrato assinado por ambas as partes remeta expressamente para cláusulas contratuais gerais que incluem a referida cláusula (Acórdão de 7 de julho de 2016, Hőszig, C-222/15, EU:C:2016:525, n.o 39 e jurisprudência referida).", o STJ considerou que, presente o quadro factual do litígio "(i) não se verificou a existência de uma prévia convenção verbal; (ii) a cláusula atributiva de jurisdição apenas consta das notas de confirmação de encomenda emitidas pela autora; (iii) tal cláusula proposta não foi objeto de convenção escrita pelas partes.", não houve pacto de jurisdição.
+
+Depois desta conclusão passa a análise do [artigo 7.º]{STJ6919}.
 
 # Artigo 26.º (pacto tácito de jurisdição)
 ## STJ
