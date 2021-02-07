@@ -41,6 +41,8 @@ Thumbs.db
 *.pdf
 *.doc
 *.docx
+*.xls
+*.xlsx
 
 #Temporários#
 #############
