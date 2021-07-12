@@ -64,7 +64,7 @@ STJ alega, quanto ao 1.º réu (com domicílio em Portugal):
   de conflitos.*"
 #+end_quote
 
-Esta afirmação parece /incorreta/, porque a situação apesar de 1 dos 2
+Esta afirmação parece */incorreta/*, porque a situação apesar de 1 dos 2
 autores e o 1.º réu terem domicílio em Portugal não deixa de ser
 internacional, uma vez que - como refere o STJ - nem todos os factos
 ilícitos foram praticados em Portugal (desde logo porque as
@@ -84,12 +84,8 @@ entendeu que havia um nexo estreita, pois os autores configuraram uma
 causa de pedir complexa, decorrente de uma atuação concertada dos dois
 réus.
 
-Este acórdão *é de incluir na referência como decisão parcialmente
-incorreta.*
+***** Conclusão: este acórdão é de incluir na referência como /decisão parcialmente incorreta/.
 
-     :PROPERTIES:
-     :CUSTOM_ID: este-acórdão-é-de-incluir-na-referência-como-decisão-parcialmente-incorreta.
-     :END:
 * Artigo 4.º (/forum rei/)
   :PROPERTIES:
   :CUSTOM_ID: artigo-4.º-forum-rei
@@ -254,6 +250,7 @@ Defende, seguindo o Tribunal da Relação, que:
   deixou de ser prestado".”
 #+end_quote
 
+**** Conclusão: a mencionar?
 Há aqui /uma interpretação ligeiramente errada/ do Acórdão /Peter
 Rehder/: neste acórdão o TJUE pronunciou-se no sentido de que o o
 requerente podia demandar a empresa de aviação transportadora /quer/ no
@@ -296,7 +293,7 @@ Justiça (Terceira Secção) de 11 de julho de 2018, Zurich Insurance plc e
 Metso Minerals Oy contra Abnormal Load Services (International) Ltd,
 Processo C-88/17
 
-"“O artigo 5.º, n.º1, alínea b), segundo travessão, do Regulamento (CE)
+"O artigo 5.º, n.º1, alínea b), segundo travessão, do Regulamento (CE)
 n.º 44/2001 do Conselho, de 22 de dezembro de 2000, relativo à
 competência judiciária, ao reconhecimento e à execução de decisões em
 matéria civil e comercial, deve ser interpretado no sentido de que, no
@@ -305,7 +302,7 @@ Membros em várias etapas, com escalas, e em que são utilizados
 diferentes meios de transporte, como o que está em causa no processo
 principal, tanto o lugar de expedição como o lugar de entrega da
 mercadoria constituem lugares de prestação do serviço de transporte, no
-sentido desta disposição"”
+sentido desta disposição"
 
 - Acórdão do TJUE (Quarta Secção) de 9 de julho de 2009, /Peter Rehder
   contra Air Baltic Corporation/, C-204/08;
@@ -1552,10 +1549,6 @@ desempenhado corretamente as suas funções.
 Concordo com a análise. # Artigo 71.º (relações com convenções
 internacionais)
 
-** STJ
-   :PROPERTIES:
-   :CUSTOM_ID: stj-8
-   :END:
 *** Acórdão de 17 de novembro de 2020, proc. 6471/17.9T8BRG.G1.S1
     :PROPERTIES:
     :CUSTOM_ID: STJ6471
@@ -1575,7 +1568,8 @@ Inter-Zuid Transport BV, Processo C-452/12 - Acórdão do TJUE (Primeira
 Secção) de 4 de setembro de 2014, Nickel & Goeldner Spedition GmbH
 contra «Kintra» UAB, Processo C 157/13
 
-* Obter doutrina
+* DONE Obter doutrina
+CLOSED: [2021-07-12 Mon 12:41]
   :PROPERTIES:
   :CUSTOM_ID: obter-doutrina
   :END:
