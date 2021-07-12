@@ -1,0 +1,1586 @@
+#+title: Registo de jurisprudência sobre o Bruxelas I (convenção e
+regulamentos)
+
+* Artigo 1.º (âmbito de aplicação)
+  :PROPERTIES:
+  :CUSTOM_ID: artigo-1.º-âmbito-de-aplicação
+  :END:
+** STJ
+   :PROPERTIES:
+   :CUSTOM_ID: stj
+   :END:
+*** Acórdão do STJ de 15 de janeiro de 2019, proc.
+27881/15.0T8LSB-A.L1.A.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-15-de-janeiro-de-2019-proc.-2788115.0t8lsb-a.l1.a.s1
+    :END:
+/Objeto do litígio:/ Autora, portuguesa, com domicílio em Espanha,
+intenta ação especial de suprimento de deliberação de comproprietários
+(art.°1002º do Código de Processo Civil) contra o Réu (ex-marido),
+português, com domicílio em Portugal, referente a um bem imóvel sito em
+portugal, que fazia parte do património comum do casal.
+
+O STJ cita o Ac. do TJUE proc. n.º 67-C/2017:
+
+#+begin_quote
+  "O artigo 1.° n°2, alínea a) do Regulamento (EU) nº1215/2012, do
+  Parlamento Europeu e do Conselho, de 12 de Dezembro de 2012, relativo
+  à competência judiciária, ao reconhecimento e à execução de decisões
+  em matéria civil e comercial, deve ser interpretado no sentido de que
+  um litígio como o do processo principal, relativo à partilha, após
+  pronúncia de um divórcio, de um bem móvel adquirido na constância do
+  matrimónio por cônjuges nacionais de um Estado-Membro mas residentes
+  noutro Estado -- Membro não está abrangido pelo âmbito de aplicação
+  deste regulamento, mas pelo domínio dos regimes matrimoniais e,
+  portanto, pelas exclusões previstas no referido artigo 1 °, n.º2,
+  alínea a)".”
+#+end_quote
+
+A decisão é correta, neste ponto de vista.
+
+*** Acórdão do STJ de 18 de outubro de 2018, proc. 2834/16.5T8GMR.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-18-de-outubro-de-2018-proc.-283416.5t8gmr.s1
+    :END:
+*Objeto do litígio:* dois AA. (1 com domícilio em Portugal, outro com
+sede no Panamá) intentaram ação de indemnização por responsabilidade
+extracontratual contra dois réus (1 com domicílio em Portugal e outro
+com domicílio na Suíça), alegando conluio e má gestão de contas de
+investimentos dos dois autores sediadas na Suíça.
+
+STJ alega, quanto ao 1.º réu (com domicílio em Portugal):
+
+#+begin_quote
+  "Assim, a alegação pela parte autora da prática de algum facto ilícito
+  imputado a cidadão português domiciliado em Portugal. -- o aqui 1.º R.
+  -, que seja integrativo da causa de pedir no âmbito da
+  responsabilidade civil extracontratual, ocorrido em território
+  português, ainda que a não preencha de todo, é o bastante para
+  conferir aos tribunais portugueses competência em razão da
+  nacionalidade, nos termos concorrentes da alínea a) do artigo 62.º,
+  com referência ao artigo 71.º, n.º 2, e alínea b) daquele artigo,
+  acima transcritos. *Nem se coloca, como foi dito, sequer aqui a
+  eventualidade de aplicação de instrumentos internacionais ou de normas
+  de conflitos.*"
+#+end_quote
+
+Esta afirmação parece /incorreta/, porque a situação apesar de 1 dos 2
+autores e o 1.º réu terem domicílio em Portugal não deixa de ser
+internacional, uma vez que - como refere o STJ - nem todos os factos
+ilícitos foram praticados em Portugal (desde logo porque as
+movimentações das contas foram ordenadas a partir de Portugal, mas
+realizadas na Suíça). Por isso parece que a situação é internacional e
+seria aplicável, por estarem preenchidos todos os seus pressupostos
+(quanto ao 1.º réu) o Regulamento Bruxelas I /bis/. Os tribunais
+portugueses seriam internacionalmente competentes, mas ao abrigo do
+artigo 4.º/1 do Regulamento Bruxelas I /bis/.
+
+Quanto ao 2.º Réu, o STJ entende ser aplicável a Convenção de Lugano
+(embora não diga se a de 1998 (I) ou de 2007 (II) é esta última a
+aplicável) e que os tribunais portugueses eram internacionalmente
+competentes para julgar os pedidos contra o 2.º réu por força do artigo
+6.º/1 da Convenção de Lugano (II) - competência por conexão, uma vez que
+entendeu que havia um nexo estreita, pois os autores configuraram uma
+causa de pedir complexa, decorrente de uma atuação concertada dos dois
+réus.
+
+Este acórdão *é de incluir na referência como decisão parcialmente
+incorreta.*
+
+     :PROPERTIES:
+     :CUSTOM_ID: este-acórdão-é-de-incluir-na-referência-como-decisão-parcialmente-incorreta.
+     :END:
+* Artigo 4.º (/forum rei/)
+  :PROPERTIES:
+  :CUSTOM_ID: artigo-4.º-forum-rei
+  :END:
+** STJ
+   :PROPERTIES:
+   :CUSTOM_ID: stj-1
+   :END:
+*** Acórdão do STJ de 4 de julho de 2019, proc. 1689/17.7T8BGC.G1-A.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-4-de-julho-de-2019-proc.-168917.7t8bgc.g1-a.s1
+    :END:
+*Objeto do litígio:* Autor, com domicílio no Congo, emprestou dinheiro
+aos Réus, todos com domicílio em Portugal. Pede a restituição do
+montante mutuado ou, em alternativa, a restituição parcial e compensação
+com montantes pagos em seu benefício a terceiros e rendas por ele
+devidas aos Réus.
+
+Aplica corretamente o artigo 4.º e cita o acórdão de 1 de março de 2005,
+C-281/02 /Owusu/.
+
+O acórdão também afasta a aplicação do artigo 24.º do Regulamento
+Bruxelas I /bis/.
+
+* Artigo 6.º (âmbito de aplicação subjetivo)
+  :PROPERTIES:
+  :CUSTOM_ID: artigo-6.º-âmbito-de-aplicação-subjetivo
+  :END:
+** STJ
+   :PROPERTIES:
+   :CUSTOM_ID: stj-2
+   :END:
+*** Acórdão do STJ de 13 de outubro de 2020, proc. 14445/18.6T8LSB.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: STJ14445
+    :END:
+Regulamento Bruxelas I /bis/ não é aplicável, porque o réu não tem
+domicílio num Estado-Membro. Aplicação correta do artigo 4.º do
+Regulamento Bruxelas I /bis/.
+
+*** Acórdão do STJ de 29 de outubro de 2020, proc.
+23592/17.0T8LSB-A.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-29-de-outubro-de-2020-proc.-2359217.0t8lsb-a.l1.s1
+    :END:
+Idêntica solução à do [[#STJ14445][Acórdão do STJ de 13 de outubro de
+2020, proc. 14445/18.6T8LSB.L1.S1]]
+
+*** Acórdão do STJ de 10 de setembro de 2020, proc.
+26868/18.6T8LSB-A.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-10-de-setembro-de-2020-proc.-2686818.6t8lsb-a.l1.s1
+    :END:
+*Objeto do litígio:* Contrato de transporte de passageiros, por avião.
+Indemnização relativa a atraso superior a 3 horas. Ré com sede em
+Marrocos e sucursal em Portugal.
+
+Cita, com referência ao Regulamento Bruxelas I, os seguintes acórdãos do
+TJUE e do STJ: - acórdão de 7 de março de 2018, /Flightright GmbH e o./,
+C-274/16, C-447/16 e C-448/16, EU:C:2018:160; e - acórdão do STJ de 3 de
+outubro de 2019, [[file:STJ262][proc. 262/18.7T8LSB-A.L1-A.S1]].
+
+Idêntica solução à do [[#STJ14445][Acórdão do STJ de 13 de outubro de
+2020, proc. 14445/18.6T8LSB.L1.S1]]
+
+*** Acórdão do STJ de 1 de outubro de 2019, proc. 2300/18.4T8PRT.P1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-1-de-outubro-de-2019-proc.-230018.4t8prt.p1.s1
+    :END:
+*Objeto do litígio:* AA, empresa com sede em Portugal, vem pedir uma
+indemnização de clientela a BB, com sede na Alemanha por considerar
+existir uma relação de distribuição comercial com a BB. Esta informou a
+CC que iria fazer cessar o contrato com celebrou com ela em 31 de
+dezembro de 2017.
+
+STJ subscreveu o entendimento da 1.ª Instância de que não existia /nem/
+contrato (logo, não podia recorrer-se ao artigo 7.º, n.º 1) /nem/ facto
+ilícito gerador de responsabilidade extracontratual (logo, não podia
+recorrer-se ao artigo 7.º, n.º 2). A Relação do Porto efetuou uma
+decisão profundamente errada (aplicando regras de competência interna
+quando os âmbitos de aplicação do Regulamento Bruxelas I /bis/ estavam
+preenchidos), mas o acórdão da Relação foi revogado por este do STJ.
+
+*** Acórdão do STJ de 3 de outubro de 2019, proc.
+262/18.7T8LSB-A.L1-A.S1 {STJ262}
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-3-de-outubro-de-2019-proc.-26218.7t8lsb-a.l1-a.s1-stj262
+    :END:
+*Objeto do lítigo*: contrato de transporte de passageiro, por avião.
+Autor tem nacionalidade e domicílio na Suíça. Ré tem sede na Suíça e
+sucursal em Portugal. Pedido indemnizatório fundado no artigo 7.º/1//b)/
+do Regulamento n.º 261/2004, de 11 de fevereiro.
+
+Não aplica o Regulamento Bruxelas I /bis/, aplicando corretamente o
+artigo 6.º.
+
+Acaba por se pronunciar sobre o [[file:artigo7][artigo 7.º]], mas por
+analogia, uma vez que aplica a Convenção de Lugano II.
+
+* Artigo 7.º (competências especiais) {artigo7}
+  :PROPERTIES:
+  :CUSTOM_ID: artigo-7.º-competências-especiais-artigo7
+  :END:
+** STJ
+   :PROPERTIES:
+   :CUSTOM_ID: stj-3
+   :END:
+*** Acórdão do STJ de 10 de dezembro de 2020, proc.
+1608/19.6T8GMR.G1.S1:
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-10-de-dezembro-de-2020-proc.-160819.6t8gmr.g1.s1
+    :END:
+Cita: - acórdão de 8 de Setembro de 2010, no processo C-409/06, *Winner
+Wetten GmbH contra Bürgermeisterin der Stadt Bergheim**; - acórdão do
+TJCE de 14 de Outubro de 1976,/Eurocontrol/; - acórdão do STJ de 14 de
+Dezembro de 2017 (Processo n.º 143378/15.0YIPRT.G1.S1); - acórdão TJUE
+de 16 de Junho de 2016, C‑511/14, /Pebros Servizi srl contra Aston
+Martin Lagonda Ltd/;
+
+*Objeto do contrato entre as partes:* a Ré/Enermatic, S.R.L., se obrigou
+a fornecer à Autora/Damabel - Importação e Exportação, Lda., software e
+hardware para a instalação de recuperação de calor, fumos/água.
+
+Relembra acórdãos do STJ sobre qualificação dos contratos que combinam
+fornecimento de bens e prestação de serviços. Cita: - Acórdãos do
+Supremo Tribunal de Justiça de 3 de Março de 2005 (Processo n.º
+05B316); - de 10 de Maio de 2007 (Processo n.º 07B072); - de 9 de Junho
+de 2011 (Processo n.º C-87/10); - de 5 de Abril de 2016 (Processo n.º
+27630/13.8YIPRT-A.G1.S1); - de 22 de Setembro de 2016 (Processo n.º
+2561/14.8T8BRG.G1.S1); e -de 14 de Dezembro de 2017 (Processo n.º
+143378/15.0YIPRT.G1.S1).
+
+*Cita e aplica* o Acórdão TJUE de 25 de fevereiro de 2010, /CarTrim/,
+que tinha sido já aplicado pelo Tribunal da Relação.
+
+*Conclusão:* está de acordo com a jurisprudência europeia.
+
+*** Acórdão do STJ de 13 de outubro de 2020, proc. 14445/18.6T8LSB.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-13-de-outubro-de-2020-proc.-1444518.6t8lsb.l1.s1
+    :END:
+*Objeto do lítigo*: contrato de transporte de passageiro, por avião. Ré
+tem sede na Suíça.
+
+Por analogia, uma vez que aplicação a Convenção de Lugano II.
+
+Cita: - acórdão do STJ, de 3 de outubro de 2019,
+[[file:STJ262artigo7][proc. 268/18.7T8LSB-A-L1.S1]]; - acórdão do TJUE
+de 9 de julho de 2009, proc. C-204/08, /Peter Rehder contra Air Baltic
+Corporation/;
+
+Defende, seguindo o Tribunal da Relação, que:
+
+#+begin_quote
+  "Logo, como bem concluiu o acórdão recorrido, “o local onde o serviço
+  de transporte aéreo deveria ter sido prestado coincide, em caso de
+  Cancelamento do voo, com o local de partida desse voo que não se
+  realizará. (...) não fará sentido eleger como elemento relevante de
+  conexão o local de destino desse voo cancelado". Pelo que "o elemento
+  de conexão relevante para definir a competência internacional do
+  tribunal é o aeroporto de partida, visto que é neste que o serviço
+  deixou de ser prestado".”
+#+end_quote
+
+Há aqui /uma interpretação ligeiramente errada/ do Acórdão /Peter
+Rehder/: neste acórdão o TJUE pronunciou-se no sentido de que o o
+requerente podia demandar a empresa de aviação transportadora /quer/ no
+foro em que se situa o lugar de partida, /quer/ no foro em que se situa
+o lugar de chegada. No [[#STJ23592][Acórdão do STJ de 29 de outubro de
+2020, proc. 23592/17.0T8LSB-A.L1.S1]] este erro ligeiro foi corrigido.
+
+*** Acórdão do STJ de 29 de outubro de 2020, proc.
+23592/17.0T8LSB-A.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: STJ23592
+    :END:
+*Objeto do lítigo*: contrato de transporte de passageiro, por avião. Ré
+tem sede na Suíça.
+
+Cita: - acórdão do STJ, de 3 de outubro de 2019,
+[[file:STJ262artigo7][proc. 268/18.7T8LSB-A-L1.S1]]; - acórdão do TJUE
+de 9 de julho de 2009, proc. C-204/08, /Peter Rehder contra Air Baltic
+Corporation/;
+
+Conclusão: >"E seguindo a mesma jurisprudência do TJUE no acórdão acima
+referido, nos termos da Convenção de Lugano II, os autores podiam optar
+por demandar a ré na jurisdição do lugar de partida do voo cancelado, ou
+seja, nos tribunais portugueses, como o fizeram, sendo por isso
+improcedente a excepção de incompetência internacional, como bem
+decidiram as instâncias."
+
+*** Acórdão do STJ de 17 de novembro de 2020, proc. 6471/17.9T8BRG.G1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-17-de-novembro-de-2020-proc.-647117.9t8brg.g1.s1
+    :END:
+*Objeto do litígio:* contrato de transporte de mercadorias por estrada,
+cujo local de carregamento ou recolha de mercadorias (a cargo do
+transportador) foi Esmeriz/Portugal, e o de entrega era
+Copenhaga/Dinamarca.
+
+Cita, sobre o artigo 5.º/1//b)/ do Regulamento 44/2001 (atualmente,
+artigo 7.º/1/b) do Reg. Bruxelas I /bis/): - Acórdão do Tribunal de
+Justiça (Terceira Secção) de 11 de julho de 2018, Zurich Insurance plc e
+Metso Minerals Oy contra Abnormal Load Services (International) Ltd,
+Processo C-88/17
+
+"“O artigo 5.º, n.º1, alínea b), segundo travessão, do Regulamento (CE)
+n.º 44/2001 do Conselho, de 22 de dezembro de 2000, relativo à
+competência judiciária, ao reconhecimento e à execução de decisões em
+matéria civil e comercial, deve ser interpretado no sentido de que, no
+contexto de um contrato de transporte de mercadorias entre Estados
+Membros em várias etapas, com escalas, e em que são utilizados
+diferentes meios de transporte, como o que está em causa no processo
+principal, tanto o lugar de expedição como o lugar de entrega da
+mercadoria constituem lugares de prestação do serviço de transporte, no
+sentido desta disposição"”
+
+- Acórdão do TJUE (Quarta Secção) de 9 de julho de 2009, /Peter Rehder
+  contra Air Baltic Corporation/, C-204/08;
+
+Este acórdão também se pronuncia sobre o [artigo 71.º]{STJ6471}
+
+*** Acórdão do STJ de 3 de outubro de 2019, proc.
+262/18.7T8LSB-A.L1-A.S1 {STJ262artigo7}
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-3-de-outubro-de-2019-proc.-26218.7t8lsb-a.l1-a.s1-stj262artigo7
+    :END:
+*Objeto do lítigo*: contrato de transporte de passageiro, por avião.
+Autor tem nacionalidade e domicílio na Suíça. Ré tem sede na Suíça e
+sucursal em Portugal. Pedido indemnizatório fundado no artigo 7.º/1//b)/
+do Regulamento n.º 261/2004, de 11 de fevereiro.
+
+Cita: - acórdão do TJUE de 9 de julho de 2009, C-204/08, /Peter Rehder
+contra Air Baltic Corporation/; - acórdão do TJUE de 10 de janeiro de
+2006, C-344/04, /IATA e ELFAA contra Department for Transport/; -
+acórdão do TJUE de 19 de novembro de 2009, C-402/07 e C-432/07,
+/Sturgeon/; - acórdão do TJUE de 23 de Outubro de 2012, C-581/10 e
+C-629/10, /Nelson/.
+
+Estende a parte decisória do acórdão /Peter Rehder/ à Convenção de
+Lugano II, por via da identidade de redação de preceitos.
+
+*** Acórdão do STJ de 13 de novembro de 2018, proc. 6919/16.0T8PRT.G1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: STJ6919
+    :END:
+*Objeto do litígio:* contrato de compra e venda de bens internacional.
+"pacto de jurisdição" constante de notas de confirmação da encomenda.
+Sociedade vendedora (autora e recorrente) tem sede em Portugal;
+sociedade compradora (ré e recorrida) tem sede na Itália. A entrega dos
+bens ocorreu em Itália.
+
+O STJ entendeu que não havia pacto de jurisdição.
+
+Cita os seguintes acórdãos do STJ: - ASTJ de 14.12.2017, com indicação
+de jurisprudência comunitária; - acórdãos de 5.4.2016; - acórdão de
+14.10.2004.
+
+Aplicou corretamente o artigo 7.º/1//b)/.
+
+*** Acórdão do STJ de 14 de dezembro de 2017, proc.
+143378/15.0YIPRT.G1.S1 {STJ143378artigo7}
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-14-de-dezembro-de-2017-proc.-14337815.0yiprt.g1.s1-stj143378artigo7
+    :END:
+*Objeto de litígio:* incumprimento de contratos que têm como objecto a
+venda de bens a produzir ou fabricar pelo vendedor (autor), segundo
+modelos ou, como se exprime a Relação, protótipos, definidos pelo
+comprador (ré), que os encomendou à autora para vender a terceiros, a
+entregar em Espanha (país da sede da Ré).
+
+Cita, aparentemente de forma correta, os acórdãos /Car Trim/ e /Falco
+Privatstiftung/ do TJUE:
+
+#+begin_quote
+  "No já citado acórdão Car Trim, no qual estava em causa um contrato
+  mediante o qual “a Key Safety, estabelecida em Itália, fornece
+  sistemas de airbags a fabricantes italianos e automóveis e comprou, à
+  Car Trim, componentes que entram no fabrico desses sistemas, de acordo
+  com cinco contratos de fornecimento" -- entendeu-se que, "para
+  determinar a obrigação característica desses contratos como critério
+  de conexão ao tribunal competente" (ponto 32), "O artigo 5º, nº 1, do
+  Regulamento nº 44/2001 (...) deve ser interpretado no sentido de que
+  os contratos cujo objecto é a entrega de bens a fabricar ou a
+  produzir, mesmo que o comprador tenha formulado determinadas
+  exigências a respeito da obtenção, da transformação e da entrega dos
+  bens, sem que os materiais tenham sido por ele fornecidos, e mesmo que
+  o fornecedor seja responsável pela qualidade e pela conformidade do
+  bem com o contrato, devem se qualificados de «venda de bens», na
+  acepção do artigo 5º, nº 1, alínea a), primeiro travessão, do
+  regulamento".
+#+end_quote
+
+#+begin_quote
+  Considerou-se, portanto, que "para determinar a obrigação
+  característica de um contrato cujo objecto é a entrega de bens a
+  fabricar ou a produzir, quando o comprador tenha formulado
+  determinadas exigências a respeito da obtenção, da transformação e da
+  entrega dos bens, o facto de o bem a entregar ter de ser fabricado ou
+  produzido previamente não altera a qualificação do contrato em causa
+  como contrato de compra e venda. Além disso, outros elementos como,
+  por um lado, o não fornecimento de materiais pelo comprador, e, por
+  outro, a responsabilidade do fornecedor pela qualidade e pela
+  conformidade do bem constituem indícios a favor de uma qualificação
+  desse contrato como «contrato de venda de bens», não sendo, todavia,
+  elementos essenciais para o efeito (cfr. acórdão Falco Privatstiftung,
+  quanto à prestação de serviços)."
+#+end_quote
+
+Considerou que os contratos em causa deviam ser qualificados,
+autonomamente, como contratos de compra e venda, para efeitos do artigo
+7.º do Regulamento Bruxelas I /bis/.
+
+*** Acórdão do STJ de 5 de abril de 2016, proc. 27630/13.8YIPRT-A.G1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-5-de-abril-de-2016-proc.-2763013.8yiprt-a.g1.s1
+    :END:
+*Objeto do litígio:* Empresa portuguesa pediu a condenação de empresa
+francesa, no pagamento de "factura respeitante a obra de caixilharia de
+alumínio, encomendada pela demandada, por ela recebida sem reclamações,
+na sede da demandante, aí carregada e transportada por conta da
+demandada".
+
+STJ qualificou o contrato como de compra e venda (e não de serviços,
+como o faziam as partes):
+
+#+begin_quote
+  “o certo é que foi convencionado que a entrega da caixilharia
+  executada pela Autora, sob encomenda da Ré, seria entregue no
+  domicílio do cliente em França, sendo que a injunção não se reporta
+  senão à obrigação alegadamente incumprida pela Ré do não pagamento do
+  preço.
+#+end_quote
+
+#+begin_quote
+  A relação jurídico-contratual tem mais afinidade com um contrato de
+  compra e venda -- art. 874º do Código Civil -- que com um contrato de
+  prestação de serviços, uma vez que até foi convencionada a entrega da
+  coisa no domicílio do comprador a efectuar pela Autora.
+#+end_quote
+
+#+begin_quote
+  Por outro lado, tendo sido convencionada a entrega da caixilharia na
+  sede da Ré, em França, existe um convenção de entrega da coisa a cargo
+  da Autora que, na economia do contrato, assume um elemento essencial
+  no que respeita ao "lugar onde os bens devem ser entregues ou onde os
+  serviços devem ser prestados".”
+#+end_quote
+
+Não citou acórdãos do TJUE.
+
+*** Acórdão STJ de 19 de novembro de 2015, proc. 2864/12.6TBVCD.P1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-stj-de-19-de-novembro-de-2015-proc.-286412.6tbvcd.p1.s1
+    :END:
+*Objeto do litígio:* empresa com sede em Portugal intentou, perante
+tribunais portugueses, ação contra empresa com sede em Espanha
+(Barcelona) alegando que entre elas existia uma relação comercial
+caracterizada por integrar um contrato misto de agência e de concessão
+comercial, incumprido pela R. e por ela ilicitamente resolvido,
+peticionando o pagamento da quantia de € 195.614,64 e respectivos juros
+de mora, a título de ressarcimento dos danos causados.
+
+A relação contratual, firmada por contrato escrito, continha um pacto de
+jurisdição a favor dos tribunais espanhois, tendo a ré invocado a
+exceção dilatória de incompetência internacional. A autora alegou que o
+pacto era nulo, por força do regime da Lei das Cláusulas Contratuais
+Gerais (art. 19.º, alínea /h)/, uma vez que haveria grave inconveniente
+em litigar perante tribunais espánhois. Alegou ainda a caducidade do
+pacto, por força da caducidade do contrato, uma vez que alegou que o
+mesmo não se tinha renovado.
+
+*Análise do STJ:* começou por /corrigir/ um erro cometido pelas
+instâncias inferiores: /caso/ não existisse pacto de jurisdição, os
+tribunais portugueses seriam /muito provavelmente/ internacionalmente
+competentes nos termos do artigo 5.º, n.º 1, al. /b)/ do Regulamento
+Bruxelas I, uma vez que estaríamos perante um contrato misto de agência
+e de concessão comercial, em que os serviços prestados (angariação de
+clientela e representação comercial) tiveram lugar em Portugal.
+
+Sobre o pacto de jurisdição: 1. Afirma a jurisprudência constante de que
+os requisitos do pacto de jurisdição são regulados de forma /exaustiva/
+pelo Regulamento Bruxelas I. Nas palavras do STJ: "Em suma: *não é
+aplicável aos pactos privativos de jurisdição regidos pelo Regulamento
+44/2001 o requisito -- condicionador da legitimidade da eleição do
+foro - previsto em disposições de direito interno, quer no âmbito do
+CPC, quer no do regime das cláusulas contratuais gerais, segundo o qual
+tal eleição está condicionada à exigência de que a fixação do foro
+competente não envolva inconveniente grava para nenhuma das partes*" -
+com este argumento afasta a invocação do artigo 94.º do CPC e do artigo
+19.º, al. /h)/ da LCCG; 2. Não analisa as questões de /vinculatividade/
+e de /subsistência atual/ do pacto de jurisdição, por considerar que as
+mesmas /não/ são questões de direito: assim determinou a baixa do
+processo.
+
+Decisão /não é/ inovadora /nem/ rebelde.
+
+* Artigo 24.º (Competências exclusivas)
+  :PROPERTIES:
+  :CUSTOM_ID: artigo-24.º-competências-exclusivas
+  :END:
+** STJ
+   :PROPERTIES:
+   :CUSTOM_ID: stj-4
+   :END:
+*** Acórdão do STJ de 4 de julho de 2019, proc. 1689/17.7T8BGC.G1-A.S1
+{STJ1689}
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-4-de-julho-de-2019-proc.-168917.7t8bgc.g1-a.s1-stj1689
+    :END:
+*Objeto do litígio:* Autor, com domicílio no Congo, emprestou dinheiro
+aos Réus, todos com domicílio em Portugal. Pede a restituição do
+montante mutuado ou, em alternativa, a restituição parcial e compensação
+com montantes pagos em seu benefício a terceiros e rendas por ele
+devidas aos Réus.
+
+Sem invocar acórdãos (para além do recorrido), o STJ decide corretamente
+que não está em causa na ação qualquer questão arrendatícia, pelo que o
+artigo 24.º não é aplicável.
+
+*** Acórdão do STJ de 12 de fevereiro de 2019, proc. 861/16.1YRLSB.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-12-de-fevereiro-de-2019-proc.-86116.1yrlsb.l1.s1
+    :END:
+/Objeto de litígio:/ discutiu-se a possibilidade de ser alegada, por via
+de exceção ou reconvenção, a invalidade da patente.
+
+O STJ cita o Acórdão do TJUE C-4/03, no qual se afirmou que:
+
+#+begin_quote
+  "O artigo 16.°, n. 4, da Convenção de 27 de Setembro de 1968 relativa
+  à competência judiciária e à execução de decisões em matéria civil e
+  comercial, alterada, em último lugar, pela Convenção de 29 de Novembro
+  de 1996 relativa à adesão da República da Áustria, da República da
+  Finlândia e do Reino da Suécia, deve ser interpretado no sentido de
+  que a regra de competência exclusiva que estabelece abrange todos os
+  litígios relativos à inscrição ou à validade de uma patente, quer a
+  questão seja suscitada por via de acção quer por via de excepção."
+#+end_quote
+
+Conclui pela incompetência do tribunal arbitral para decidir da
+invalidade da patente.
+
+*** Acórdão do STJ de 22 de março de 2018, proc. 1053/16.5YRLSB.S1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-22-de-março-de-2018-proc.-105316.5yrlsb.s1.s1
+    :END:
+*Objeto do litígio:*
+
+Refere, apenas incidentalmente, o Regulamento Bruxelas I /bis/ e um
+Acórdão do TJUE, proc. C-4/03:
+
+#+begin_quote
+  "Nesse sentido, apela para a nova redacção do artigo 24.º, n.º 4, do
+  Regulamento n.º 1215/2012 e para a consagração da doutrina da decisão
+  do TJUE no Acórdão de 13-07-2006 (proc. C-4/03) -- amplamente citado
+  no acórdão do Supremo Tribunal de Justiça objecto do comentário --
+  segundo a qual, tal como a nulidade de uma patente só pode ser
+  apreciada, mesmo de forma incidental, no tribunal exclusivamente
+  competente (em termos de competência internacional e territorial),
+  também a competência (material) exclusiva dos tribunais estaduais
+  estabelecida no artigo 35.º, n.º 1, do CPI impede a apreciação
+  incidental da validade da patente fora desses tribunais."
+#+end_quote
+
+* Artigo 25.º (pacto de jurisdição) {artigo25}
+  :PROPERTIES:
+  :CUSTOM_ID: artigo-25.º-pacto-de-jurisdição-artigo25
+  :END:
+** STJ
+   :PROPERTIES:
+   :CUSTOM_ID: stj-5
+   :END:
+*** Acórdão do STJ de 17 de dezembro de 2020, proc.
+12223/16.6T8PRT.P1.S1 {STJ12223}
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-17-de-dezembro-de-2020-proc.-1222316.6t8prt.p1.s1-stj12223
+    :END:
+/Objeto do litígio:/ sociedade portuguesa (M. Sousa Torres) intentou
+ação contra Portprimland (sede em Portugal), Primland e Sofruileg (sede
+noutro Estado).
+
+A autora celebrou um contrato de sublicenciamento com a Sofruileg.
+
+Celebrou depois um contrato /escrito/ com a Primland para venda de
+frutos kiwi que produziu. Celebrou, mais tarde, um contrato /verbal/ com
+a Portprimland para venda de fruta kiwi da campanha de 2015.
+
+A questão é que o contrato escrito com a Primland tem uma cláusula de
+jurisidção. O contrato verbal /não tem/. O tribunal de 1.ª instância e a
+Relação consideraram que estavam perante uma cessão de posição
+contratual, que transmitiu a vinculação ao pacto. O STJ /defendeu/ que
+não estão reunidos os requisitos previstos nos artigos 424.º a 427.º do
+CC português para se ter operado uma cessão da posição contratual, pelo
+que os contratos seriam autónomos e no segundo não há pacto de
+jurisdição, não havendo transmissão do pacto de jurisdição celebrado
+entre a Autora e a Primland (contrato escrito) para o contrato celebrado
+entre a Autora e a Portprimland (contrato verbal).
+
+*não cita jurisprudência europeia. Verificar se há jurisprudência
+europeia sobre a transmissão do pacto de jurisdição*
+
+*** Acórdão do STJ de 12 de setembro de 2019, proc. 64/17.8TNLSB.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-12-de-setembro-de-2019-proc.-6417.8tnlsb.l1.s1
+    :END:
+*Objeto do litígio:* Contrato de seguro de transporte marítimo. Autora
+subrogada nos direitos da empresa EE, a quem pagou os valores
+solicitados. Demanda empresa BB. Autor e Réu têm ambos domicílio na
+Suíça. Foi firmado um pacto de jurisdição nos conhecimentos de
+transporte, que atribui competência exclusiva ao /High Court of London
+and English Law/.
+
+Aplica a Convenção de Lugano II. Sustenta que o artigo 17.º desta
+Convenção é, no essencial, semelhante ao artigo 17 da Convenção de
+Bruxelas, 23.º do Regulameno Bruxelas I e 25.º do Regulamento Bruxelas I
+/bis/.
+
+Cita: - acórdão de 9 de novembro de 1978, /Meeth/, 23/78; - acórdão de
+10 de março de 1992, /Powell Duffryn/Wolfang Petereit/,C- 214/89; -
+acórdão de 20 de fevereiro de 1997, /MSG/, C-106/95; - acórdão de 14 de
+dezembro de 1976, /Segoura/Bonakdarien/, C-25/76; - acórdão de 11 de
+julho de 1985, /CBerghofer/Asa/, C-221/84; - acórdão de 7 de fevereiro
+de 2013, /Refcomp SpA/Axa Corporate Solutions Assurance S.A. e outros/,
+C-543/10 (conhecimento de carga); - acórdão de 19 de junho de 1984,
+/Tilly Russ/Nova/, C-71/83 (conhecimento de carga); - acórdão de 16 de
+março de 1999, /Trasporti Castelletti/Trumpy SpA/, C-159/97
+(conhecimento de carga);
+
+Acaba por mandar descer à 1.ª instância:
+
+#+begin_quote
+  “E tudo isto sem esquecer que, tal como decidiu o já citado Acórdão de
+  20 de fevereiro de 1997, MSG, processo C-106/95 e jurisprudência aí
+  referida, o conhecimento efetivo ou presumido dum uso pelas partes
+  contratantes pode ser provado, designadamente, pela demonstração de
+  que as partes tinham anteriormente mantido relações comerciais entre
+  elas ou com outras partes que operam nesse sector de atividade, ou de
+  que, neste sector, um certo comportamento é suficientemente conhecido,
+  pelo facto de ser geral e regularmente seguido na conclusão dum certo
+  tipo de contratos, para poder ser considerado como uma prática
+  consolidada (nº 24).
+#+end_quote
+
+#+begin_quote
+  Acontece, porém, que apesar da factualidade alegada nos referidos
+  artigos 15 a 17 da contestação assumir especial relevância para a
+  demonstração do pressuposto a que alude a alínea c) do nº1 do art. 23º
+  da Convenção de Lugano, a cargo da parte que invoca em seu benefício o
+  pacto privativo de jurisdição, a verdade é que não foi dada à ré a
+  oportunidade de fazer a respetiva prova, pelo que, para tanto e em
+  ordem a conseguir-se base fáctica suficiente para a decisão da
+  invocada exceção, impunha-se relegar o respetivo conhecimento para
+  decisão final.”
+#+end_quote
+
+*** Acórdão do STJ de 9 de maio de 2019, proc. 3793/16.0T8VIS.C1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-9-de-maio-de-2019-proc.-379316.0t8vis.c1.s1
+    :END:
+*Objeto do litígio:* Contrato de subempreitada, com pacto de jurisdição
+que atribui competência exclusiva a um determinado tribunal (competência
+territorial) português.
+
+O STJ analisou a questão de determinar se o pacto de jurisdição é, nos
+termos da lei portuguesa, substantivamente nulo.
+
+Cita os seguintes acórdãos do STJ: - 11 de fevereiro de 2015, proc. n.º
+877/12.7TVLSB.L1-A.S1; --- 19 de Novembro de 2015, proc.
+2864/12.6TBVCD.P1.S1; --- 26 de Janeiro de 2016, proc. n.º
+540/14.4TVLSB.S1; --- 4 de Fevereiro de 2016, proc. n.º
+536/14.6TVLSB.L1.S1; --- 16 de Fevereiro de 2016, proc. n.º
+135/12.7TCFUN.L1.S1; --- 21 de Abril de 2016, proc. n.º
+538/14.2TVLSB.L1.S1; --- 6 de Setembro de 2016, proc. n.º
+1386/15.8T8PRT-B.P1.S1; --- 9 de Fevereiro de 2017, proc. n.º
+1387/15.6T8PRT-B.L1.P1-A; --- 13 de Novembro de 2018, proc. n.º
+6919/16.0T8PRT.G1.S1; --- 19 de Dezembro de 2018, proc.n.º
+2312/16.2T8FNC.L1.S1; --- 7 de Março de 2019, proc. n.º
+13688/16.1TBPRT.P1.S1, em cuja fundamentação se diz, expressamente, que
+"decorre do primado do direito comunitário, da sua prevalência sobre o
+direito português e da sua aplicação directa na ordem interna que, à luz
+do Regulamento, [que] não cabe aferir da eventual aplicação do disposto
+em normas de direito nacional, como as vertidas no CPC (nomeadamente a
+do art.º 94.º)";
+
+Cita: - acórdão do TJUE de 7 de julho de 2017, /Hőszig/, C-222/15.
+
+Conclui, /corretamente/, que
+
+#+begin_quote
+  "o conceito de invalidade substancial do art. 25.º do Regulamento n.º
+  1215/2012 deve interpretar-se em termos de não abranger a invalidade
+  por violação das regras de competência interna e, designadamente, das
+  regras de competência interna dos arts. 94.º, 95.º e 104.º do Código
+  de Processo Civil."
+#+end_quote
+
+e
+
+#+begin_quote
+  "O segmento “a menos que o pacto seja, nos termos da lei desse
+  Estado-Membro, substantivamente nulo" desempenha a função de
+  harmonizar o do art. 25.º do Regulamento com o art. 5.º da Convenção
+  de Haia de 30 de Junho de 2005 sobre os acordos de eleição do foro.
+#+end_quote
+
+#+begin_quote
+  O relatório explicativo da Convenção de Haia de 30 de Junho de 2005
+  distingue entre motivos formais e motivos não formais, relativos a uma
+  invalidade de mérito e, distinguindo-os, diz que os motivos não
+  formais, relativos a uma invalidade de mérito, são sobretudo "motivos
+  geralmente reconhecidos", como o erro, o dolo, a coacção ou a
+  incapacidade --- não são motivos relacionados com as regras de
+  competência interna da ordem jurisdicional designada.”
+#+end_quote
+
+*** Acórdão do STJ de 8 de maio de 2019, proc. 27393/17.0T8LSB.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-8-de-maio-de-2019-proc.-2739317.0t8lsb.l1.s1
+    :END:
+*Objeto do litígio:* relação de trabalho entre trabalhadora AA, que no
+final da execução do contrato (27 de julho a novembro de 2016) tinha
+domicílio em Portugal, e empregadora BB, organização internacional com
+sede em nos Países Baixos, sustentado em dois contratos de trabalho. Em
+ambos os contratos se estabeleceu pacto de jurisdição exclusivo a favor
+dos tribunais ingleses e galeses.
+
+Decisão da 1.ª Instância e da Relação aplicaram erradamente o artigo
+25.º/4 e o artigo 23.º do Regulamento Bruxelas I /bis/.
+
+O problema mais interessante parecer ser o facto de a relação laboral
+ser contestada pela "empregadora" BB.
+
+Cita do TJ: - Acórdão de 10 de setembro de 2015, C-47/14 - Acórdão de 29
+de setembro de 2007, C-116/06 - Acórdão de 19 de julho de 2012,
+C-154/11 - Acórdão de 14 de setembro de 2017, C-168/16 e C-169/16
+
+STJ utiliza a configuração da ação pela autora para verificar se há
+probabilidade de a relação ser laboral e, como responde afirmativamente
+a esta questão, declara inválidos os pactos de jurisdição porque eles
+retiram ao (putativo) trabalhador a possibilidade de intentar a ação num
+dos foros do artigo 21.º do Regulamento Bruxelas I /bis/, violando assim
+o artigo 25.º/4 e 23.º do mesmo Regulamento.
+
+*** Acórdão do STJ de 7 de março de 2019, proc. 13688/16.1TBPRT.P1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-7-de-março-de-2019-proc.-1368816.1tbprt.p1.s1
+    :END:
+/Objeto do litígio/: os (vários) autores (com sede em Portugal)
+intentaram ação contra três rés: NN e duas sublicenciadas MM e LL.
+
+Os autores celebraram um contrato de sublicença de certificados de
+obtenção vegetal, que continha um pacto de jurisdição em favor de um
+tribunal francês.
+
+Os autores celebraram um segundo contrato com a Ré MM (operadora
+comercial e sublicenciada e indicada pela ré NN), que continha um pacto
+de jurisdição em favor de um (outro) tribunal francês.
+
+Houve uma cessão da posição contratual da Ré MM para a Ré LL foi
+confirmada, formalmente, pela Ré NN, por mensagem de correio electrónico
+de 04-12-2015.
+
+O STJ entende que a cessão de posição contratual transfere os direitos e
+deveres da posição contratual e, logo, o pacto de jurisdição passa a
+vincular o cessionário (que se substitui ao cedente).
+
+Este acórdão chega a uma conclusão diferente do [Acórdão do STJ de 17 de
+dezembro de 2019, proc. 12223/16.6T8PRT.P1.S1]{STJ12223}. O ponto
+essencial parece ter sido a confirmação escrita da cessão da posição
+contratual. Em ambos os casos o tribunal parece ter aplicado diretamente
+o Direito material português para ver as regras da cessão, o que é no
+mínimo discutível, até está em causa um requisito de forma e, aceitando
+que o contrato de cessão de posição contratual é internacional, seria
+aplicável o artigo 11.º do Regulamento Roma I.
+
+*** Acórdão do STJ de 19 de dezembro de 2018, proc. 2312/16.2T8FNC.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-19-de-dezembro-de-2018-proc.-231216.2t8fnc.l1.s1
+    :END:
+/Objeto do litígio:/ Autores com sede em Portugal e ré com sede na
+Irlanda. Na ação pedem que sejam declaradas infrações ao Direito da
+Concorrência pelos réus e a condenação dos mesmos ao pagamento de uma
+indemnização. Nas relações contratuais entre autores e réus existiam
+pactos de jurisdição a favor dos tribunais irlandeses, abarcando, num
+casos, todos os litígios decorrentes deste Acordo” e, no outro, que o
+acordo e a relação entre as partes se submete à jurisdição dos tribunais
+irlandeses.
+
+STJ reitera interpretação autónoma, citando vária jurisprudência do STJ:
+
+#+begin_quote
+  "Esta orientação tem sido adoptada pela jurisprudência europeia:
+  inicialmente, no acórdão Eurocontrol, de 14 de Outubro de 1976
+  (processo 29/76, EU:C:1976:137, nºs 3 e 5); posteriormente, de forma
+  constante. Ver, entre outros, o acórdão Koelzsch, de 15 de Março de
+  2011 (processo C-29/10, EU:C:2011:151, nº 32), o acórdão Kásler e
+  Káslerné Rábai, de 30 de Abril de 2014 (processo C-26/13,
+  EU:C:2014:282, nº 37) e o acórdão Pebros Servizi srl , de 16 de Junho
+  de 2016 (processo C-511/14, EU:C:2016:448),"
+#+end_quote
+
+Depois cita:
+
+#+begin_quote
+  "Não se tratando de lide que integre qualquer das excepções do nº 2, é
+  aplicável o nº 1, podendo, no entanto, suscitar-se dúvidas sobre a
+  natureza de uma acção de responsabilidade civil por infracções
+  jus-concorrenciais. Dúvidas que, a respeito da norma equivalente do
+  Regulamento nº 44/2001 (artigo 1º, nº 1), foram resolvidas pelo TJUE
+  no Acórdão flyLA‑Lithuanian Airlines AS, de 23 de Outubro de 2014
+  (processo C-302/13, EU:C:2014:2319), em termos que, mais uma vez de
+  acordo com o princípio da continuidade interpretativa, são
+  inteiramente válidos em relação ao regime do Regulamento nº
+  1215/2012."
+#+end_quote
+
+Cita ainda os seguintes acórdãos do TJUE: - /Marc Brogsitter/, de 13 de
+Março de 2014 (processo C-548/12, EU:C:2014:148); - /Cartel Damage
+Claims (CDC) Hydrogen Peroxide SA/, de 21 de Maio de 2015 (processo
+C-352/13, EU:C:2015:335).
+
+Fundamenta a sua decisão no Acórdão do TJUE processo C-595/17,
+EU:C:2018:854:
+
+#+begin_quote
+  “1) O artigo 23.º do Regulamento (CE) n.º 44/2001 do Conselho, de 22
+  de dezembro de 2000, relativo à competência judiciária, ao
+  reconhecimento e à execução de decisões em matéria civil e comercial,
+  deve ser interpretado no sentido de que a aplicação, a uma ação de
+  indemnização intentada por um distribuidor contra o seu fornecedor ao
+  abrigo do artigo 102.º TFUE, de uma cláusula atributiva de jurisdição
+  contida no contrato que vincula as partes não está excluída pelo
+  simples facto de essa cláusula não se referir expressamente aos
+  litígios relativos à responsabilidade decorrente de uma infração ao
+  direito da concorrência.
+#+end_quote
+
+#+begin_quote
+
+  2) O artigo 23.º do Regulamento n.º 44/2001 deve ser interpretado no
+     sentido de que a aplicação de uma cláusula atributiva de jurisdição
+     no âmbito de uma ação de indemnização intentada por um distribuidor
+     contra o seu fornecedor ao abrigo do artigo 102.º TFUE não depende
+     da constatação prévia de uma infração ao direito da concorrência
+     por uma autoridade nacional ou europeia.” [negritos nossos].”
+#+end_quote
+
+E conclui pela aplicação do pacto de jurisdição.
+
+*Moura Ramos, Aplicabilidade de cláusulas atributivas de jurisdição em
+acções de responsabilidade emergente de práticas consideradas de abuso
+de posição dominante, anotação ao acórdão do STJ de 16 de Fevereiro de
+2016, in Revista de Legislação e de Jurisprudência, Ano 147º, págs. 265
+e segs. especialmente, pág. 278*
+
+Moura Ramos, p. 277, nota 69, dá conta de que o TJUE foi chamado a
+pronunciar-se sobre aplicação de pacto de jurisdição a alegada violação
+do artigo 102.º do TFUE por um fornecedor de um distribuidor. *É o
+acórdão C-595/17*.
+
+*** Acórdão do STJ de 13 de novembro de 2018, proc. 6919/16.0T8PRT.G1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-13-de-novembro-de-2018-proc.-691916.0t8prt.g1.s1
+    :END:
+*Objeto do litígio:* contrato de compra e venda de bens internacional.
+"pacto de jurisdição" constante de notas de confirmação da encomenda.
+Sociedade vendedora (autora e recorrente) tem sede em Portugal;
+sociedade compradora (ré e recorrida) tem sede na Itália. A entrega dos
+bens ocorreu em Itália.
+
+Noção autónoma de pacto de jurisdição.
+
+Cita os seguintes acórdãos do TJ: - Acórdão de 5 de dezembro de 2013,
+/Vapenik v. Thurner/, C‑508/12, EU:C:2013:790; - Acórdão de 11 de julho
+de 1985, /Berghofer/Asa/, 221/84; - Acórdão de 8 de março de 2018, /Saey
+Home & Garden v. Lusavouga/, C-64/17, EU:C:2018:173
+
+Cita os seguintes acórdãos do STJ: - 31.4.2016, - 17.3.2016, -
+4.2.2016, - 26.1.2016, - 19.11.2015, - 11.2.2015, - 9.9.2014
+
+Seguindo o Acórdão /Saey Home & Garden v. Lusavouga/, no qual se
+entendeu que "uma cláusula atributiva de jurisdição está estipulada nas
+cláusulas contratuais gerais, o Tribunal de Justiça já decidiu que essa
+cláusula é lícita caso o próprio texto do contrato assinado por ambas as
+partes remeta expressamente para cláusulas contratuais gerais que
+incluem a referida cláusula (Acórdão de 7 de julho de 2016, Hőszig,
+C-222/15, EU:C:2016:525, n.o 39 e jurisprudência referida).", o STJ
+considerou que, presente o quadro factual do litígio "(i) não se
+verificou a existência de uma prévia convenção verbal; (ii) a cláusula
+atributiva de jurisdição apenas consta das notas de confirmação de
+encomenda emitidas pela autora; (iii) tal cláusula proposta não foi
+objeto de convenção escrita pelas partes.", não houve pacto de
+jurisdição.
+
+Depois desta conclusão passa a análise do [artigo 7.º]{STJ6919}.
+
+*** Acórdão do STJ de 9 de fevereiro de 2017, proc.
+1387/15.6T8PRT-B.L1.P1-A
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-9-de-fevereiro-de-2017-proc.-138715.6t8prt-b.l1.p1-a
+    :END:
+*Objeto do litígio:* Empresa com sede em Espanha celebrou com sucursal
+espanhola de Banco contrato de empréstimo, com pacto de jurisdição a
+favor dos tribunais espanhois. Celebrou depois dois contratos de /swap/,
+em que há um pacto de jurisdição a favor dos tribunais portugueses.
+
+*Análise:* Recorrente defendeu aplicação do artigo 31.º/1 do Regulamento
+Bruxelas I /bis/.
+
+STJ recusou porque considerou que não estamos perante situações em que é
+necessário prevenir "decisões inconciliáveis" e, /sobretudo/, porque não
+estamos perante uma situação de /litispendência ou conexão/, pois não há
+notícia de estar pendente uma outra ação nos tribunais de outro
+Estado-Membro, o que inviabiliza a aplicação do artigo 31.º do
+Regulamento Bruxelas I /bis/.
+
+STJ decidiu bem, pois o pacto de jurisdição prevalece sobre a
+competência por conexão (embora não tenha citado, por exemplo, o caso
+/Estasis/ 24/76).
+
+*** Acórdão do STJ de 6 de setembro de 2016, proc.
+1386/15.8T8PRT-B.P1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-6-de-setembro-de-2016-proc.-138615.8t8prt-b.p1.s1
+    :END:
+*Objeto do litígio:* contrato de empréstimo e contrato de /swap/
+celebrados entre uma empresa com sede em Espanha e uma empresa com sede
+em Portugal. No contrato de empréstimo consta um pacto de jurisdição
+exclusiva em favor dos tribunais de Vigo.
+
+STJ decide corretamente que:
+
+#+begin_quote
+  "Este Supremo Tribunal tem acolhido, como decorrência desses
+  princípios, a independência da noção e a prevalência do regime (e
+  respectivo alcance) do pacto (convenção) atributivo de jurisdição
+  constante do já citado art. 25º ([10]), face a requisitos formais
+  eventualmente mais exigentes que lhe sejam impostos pelos direitos
+  nacionais dos estados-membros. Nessa senda, regista-se, desde logo,
+  que, à luz do Regulamento, não cabe aferir da eventual aplicação do
+  disposto em normas de direito nacional, como as vertidas no CPC
+  (nomeadamente a do art. 94º) ou da LCCG (cláusulas contratuais gerais)
+  e é completamente irrelevante a pretensão de se submeter ou
+  condicionar o exercício da autonomia da vontade à existência de uma
+  conexão estreita do litígio à ordem jurisdicional a que se atribui
+  competência para dele conhecer, sendo, por isso, desnecessário que tal
+  pacto se mostre justificado por um interesse sério de, pelo menos, uma
+  das partes ([11]), sem que envolva inconveniente grave para a outra, e
+  sendo, consequentemente, desconsideradas as eventuais vantagens ou
+  desvantagens que daí advenham."
+#+end_quote
+
+Cita acórdão do STJ de 4 de fevereiro de 2016, proc. 536/14.6TVLSB.L1.S1
+
+*** Acórdão do STJ de 21 de abril de 2016, proc. 538/14.2TVLSB.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-21-de-abril-de-2016-proc.-53814.2tvlsb.l1.s1
+    :END:
+*Objeto do litígio:* contrato /swap/ celebrado entre entidade pública da
+região autónoma da Madeira e filial portuguesa de Banco espanhol, no
+qual consta um pacto de jurisdição a favor dos tribunais ingleses e uma
+cláusula de escolha da lei inglesa e a estipulação de que o Banco podia
+efetuar transações através das suas filiais em Londres e no Luxemburgo.
+
+*Análise:*
+
+STJ refere que:
+
+#+begin_quote
+  "Para caracterizar a “estraneidade", idealmente contida no art.º 23.º
+  do Regulamento, é suficiente que o possível cumprimento das obrigações
+  contratuais possa ocorrer no Estado-Membro a quem se defere a
+  competência e que a conexão dos acordos celebrados se configure,
+  visivelmente, como estando envolvidos no âmbito de um encadeamento de
+  interesses financeiros de perfil internacional.”
+#+end_quote
+
+Aqui o STJ assinala o /carácter internacional/ do contrato de /swap/ e a
+conexão com os contratos de empréstimo internacionais.
+
+Cita Acórdãos do TJUE:
+
+#+begin_quote
+  “Acórdãos Owusu (processo C- 281/02), de 01-03-2005; Lindner (processo
+  C- 327/10), de 17-11-2011 e Maletic (processo C-478/12), de
+  14-11-2013.
+#+end_quote
+
+#+begin_quote
+  "...Para que a escolha do tribunal seja válida é desnecessário que
+  exista qualquer conexão entre o objecto do litígio e o tribunal
+  designado, não sendo valoráveis, designadamente, os hipotéticos
+  inconvenientes, para uma das partes, da localização do foro
+  convencionado - Ac. STJ de 04.02.2016; Lopes do Rego (Relator);
+  www.dgsi.pt."
+#+end_quote
+
+Conclui que:
+
+#+begin_quote
+  “Segundo jurisprudência pacífica do TJUE, os requisitos de validade e
+  de convenção de competência apenas são aqueles que constam do art.
+  23.º do Regulamento n.º 44/2001, pelo que o direito dos
+  Estados-Membros não pode acrescentar outros; e ainda para que a
+  escolha do tribunal seja válida não é necessário que exista uma
+  qualquer conexão entre o objecto do litígio e o tribunal designado,
+  não sendo valoráveis, consequentemente, hipotéticos inconvenientes
+  para uma das partes (no caso, para a recorrente), decorrentes da
+  localização do foro convencionado.
+#+end_quote
+
+#+begin_quote
+  Em função da autonomia e exclusividade do normativo inserto no art.
+  23.º do Regulamento n.º 44/2001, não cabe aquilatar, por estar
+  prejudicado, da eventual aplicação do disposto em normas de direito
+  nacional, nomeadamente, as vertidas nos artigos 94.º do NCPC (2013) e
+  19.º, n.º 1, al. g), da LCCG - Acórdão de 26.01.2016; Garcia Calejo
+  (Relator); www.dgsi.pt.”
+#+end_quote
+
+Situação semelhante (praticamente idêntica) à do [[file:STJ536][Acórdão
+do STJ de 4 de fevereiro de 2016, proc. 536/14.6TVLSB.L1.S1]].
+
+*** Acórdão do STJ de 17 de março de 2016, proc. 588/13.6TVPRT.P1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-17-de-março-de-2016-proc.-58813.6tvprt.p1.s1
+    :END:
+*Objeto do litígio:* Autora pediu a condenação da Ré no pagamento de uma
+indemnização, porque entre ambas foi celebrado um contrato de concessão
+comercial para comercialização do software produzido pela mesma (K
+anti-vírus, anti-spam e internet security) em Portugal, em regime de
+exclusividade, o qual perdurou durante cerca de 10 anos, sendo que a Ré
+incumpriu de forma ilícita e culposa o referido contrato, gerando danos
+à Autora.
+
+*Análise:* STJ decidiu bem a questão da incompetência internacional,
+considerando que a LCCG não permite afastar o pacto de jurisdição,
+seguindo a posição assumida pelo TJUE e pela doutrina de que a validade
+dos pactos se avalia /apenas/ nos termos do artigo 25.º do Regulamento
+Bruxelas I /bis/ (e, respetivamente, dos artigo 23.º do Regulamento
+Bruxelas I e 17.º da Convenção de Bruxelas).
+
+*** Acórdão do STJ de 16 de fevereiro de 2016, proc. 135/12.7TCFUN.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-16-de-fevereiro-de-2016-proc.-13512.7tcfun.l1.s1
+    :END:
+*Objeto do litígio:* "AA, SA" e "BB, SA" (sede Madeira) instauram a
+presente acção contra a "CC" ("CC") (sede Irlanda), pedindo: i) "ser a
+prática de abusos de posição dominante pela R., ao abrigo do artigo 6º
+da Lei nº 18/2003, de 11 de Junho, e do artigo 102º do TFUE; ii) ser
+declarada a prática de abusos de dependência económica pela R.,
+designadamente na imposição do contrato GG, celebrado contra disposição
+imperativa da lei, proibido ao abrigo do artigo 7º da Lei 18/2003, de 11
+de Junho; iii) ser a R. declarada a pagar à “AA" 39.183.667,40 € (trinta
+e nove milhões, cento e oitenta e três mil, seiscentos e sessenta e sete
+euros e quarenta cêntimos), acrescidos de juros moratórios contados à
+taxa legal, desde a citação até efectivo e integral pagamento; e iv) ser
+a R. condenada a pagar à "BB" 1.042.791,76 (um milhão e quarenta e dois
+mil setecentos e novecentos e um euros e setenta e seis cêntimos),
+acrescidos de juros moratórios contados à taxa legal, desde a citação
+até efectivo e integral pagamento.”
+
+*Análise:* STJ considera que os factos constantes da PI apontam para uma
+relação contratual que uma das partes violou. Considerou, por isso,
+estarmos perante uma relação contratual e considerou aplicável o pacto
+de jurisdição.
+
+A análise parece-me duvidosa. Teria preferido uma qualificação delitual,
+mas abrangida ainda assim pelo pacto.
+
+Este acórdão tem comentário do Moura Ramos:
+
+*Moura Ramos, Aplicabilidade de cláusulas atributivas de jurisdição em
+acções de responsabilidade emergente de práticas consideradas de abuso
+de posição dominante, anotação ao acórdão do STJ de 16 de Fevereiro de
+2016, in Revista de Legislação e de Jurisprudência, Ano 147º, págs. 265
+e segs. especialmente, pág. 278*
+
+Moura Ramos, p. 277, nota 69, dá conta de que o TJUE foi chamado a
+pronunciar-se sobre aplicação de pacto de jurisdição a alegada violação
+do artigo 102.º do TFUE por um fornecedor de um distribuidor. *É o
+acórdão C-595/17*.
+
+Aí o TJUE disse: > “29. Assim, há que salientar que, no âmbito de uma
+ação ao abrigo do artigo 102.o TFUE, não se pode considerar que a tomada
+em consideração de um pacto atributivo de jurisdição que faz referência
+a um contrato e à relação correspondente ou às relações dele decorrentes
+entre as partes surpreenda uma das partes na aceção da jurisprudência
+referida no n.o 22 do presente acórdão.
+
+#+begin_quote
+
+  30. Em face do exposto, há que responder à primeira e segunda questões
+      que o artigo 23.o do Regulamento n.o 44/2001 deve ser interpretado
+      no sentido de que a aplicação, a uma ação de indemnização
+      intentada por um distribuidor contra o seu fornecedor ao abrigo do
+      artigo 102.o TFUE, de uma cláusula atributiva de jurisdição
+      contida no contrato que vincula as partes não está excluída pelo
+      simples facto de essa cláusula não se referir expressamente aos
+      litígios relativos à responsabilidade decorrente de uma infração
+      ao direito da concorrência”
+#+end_quote
+
+*** Acórdão do STJ de 4 de fevereiro de 2016, proc. 536/14.6TVLSB.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: STJ536
+    :END:
+*Objeto do litígio:* contrato /swap/ celebrado entre entidade pública da
+região autónoma da Madeira e filial portuguesa de Banco espanhol, no
+qual consta um pacto de jurisdição a favor dos tribunais ingleses e uma
+cláusula de escolha da lei inglesa e a estipulação de que o Banco podia
+efetuar transações através das suas filiais em Londres e no Luxemburgo.
+
+Discutiu-se se estavamos perante uma situação /puramente interna/ ou
+/internacional/.
+
+STJ recusou fazer reenvio prejudicial porque a /dúvida/ existente (a
+estipulação de um pacto de jurisdição é suficiente para
+/internacionalizar/ uma determinada situação jurídica?) /não/ tinha
+relevância prática no caso concreto, uma vez que existiam outros
+elementos de estraneidade na situação jurídica litigiosa. Citou vários
+acórdãos do TJUE, nomeadamente /CILFIT/ e /Owusu/.
+
+STJ considerou, no caso concreto, decisivos os seguintes elementos: - a
+fixação de lugares de cumprimento alternativos (portugal, londres e
+luxemburgo); - a cláusula de escolha de lei (seguindo aqui a tese de
+Lagard/Jenard, ao contrário da posição de Lima Pinheiro):
+
+#+begin_quote
+  "Acresce que, no caso em análise, as partes -- no exercício da
+  respectiva autonomia da vontade -- não se limitaram a estipular um
+  pacto de jurisdição, reservando a competência internacional aos
+  tribunais ingleses -- estabelecendo também que o mérito ou substância
+  da relação contratual seria regida pelo Direito anglo saxónico: ora,
+  como nos parece evidente, não pode qualificar-se como relação jurídica
+  puramente interna aquela que as partes voluntariamente quiseram
+  submeter a um direito estrangeiro."
+#+end_quote
+
+- A conexão dos contratos de /swap/ com os contratos de empréstimo
+  celebrados pela A. com bancos estrangeiros.
+
+Cita Ac. /Maletic/, proc. C-478/12.
+
+Conclusão:
+
+#+begin_quote
+  "Considera-se, pois, claro, face ao relevo que o Direito Comunitário e
+  a jurisprudência do TJ vêm conferindo à autonomia da vontade das
+  partes na estipulação da competência internacional, que bastam como
+  elementos de estraneidade do litígio sujeito a pacto de jurisdição o
+  local possível de cumprimento de obrigações contratuais, a submissão,
+  no exercício da autonomia da vontade das partes, da substância do
+  litígio a um direito material estrangeiro e a conexão -- senão
+  jurídica, ao menos funcional e económica - dos contratos de derivados
+  financeiros celebrados por contraentes sediados em Portugal a
+  contratos de mútuo bancário de contexto claramente internacional --
+  determinando a ponderação global de todos esses elementos de
+  internacionalidade que a relação contratual em litígio não possa
+  qualificar-se como relação puramente interna, susceptível de obstar à
+  aplicação da disciplina contida no art. 23º do Regulamento 44/2001."
+#+end_quote
+
+*** Acórdão do STJ de 11 de fevereiro de 2015, proc.
+877/12.7TVLSB.L1-A.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-11-de-fevereiro-de-2015-proc.-87712.7tvlsb.l1-a.s1
+    :END:
+*Objeto do litígio:* o autor (sede em Portugal) pediu, junto dos
+tribunais portugueses, a resolução do contrato de /swap/ celebrado com o
+réu (sedeado em Londres), com fundamento em alteração das circunstâncias
+(art. 437.º do CC). O /master agreement/ tem uma cláusula de escolha de
+lei a favor dos tribunais ingleses.
+
+*Análise do STJ:* cita o Acórdão do TJCE Estasis Salotti di Colzani v.
+Rüwa, de 14/12/1976, quanto à validade formal do pacto de jurisdição e o
+Acórdão do TJCE Benincasa v. Dentalkit, de 03/07/1997, quanto ao facto
+de a nulidade do contrato não afetar a validade do pacto de jurisdição.
+
+Sobre o problema da LCCG, e depois de invocar que a questão não podia
+ser conhecida por força do princípio da concentração da defesa e
+discordar da posição expendida pela Relação sobre a distribuição do ónus
+da prova, o STJ cita novamente o Acórdão do Estasis Salotti di Colzani
+v. Rüwa:
+
+#+begin_quote
+  "Nessa situação o que o TJCE considerou -- designadamente no já citado
+  Acórdão do Estasis Salotti di Colzani v. Rüwa[52] -- é que se o pacto
+  constar de cláusulas contratuais gerais é necessário a sua referência
+  ou remissão expressa, no contrato assinado pelas partes, para que o
+  contraente, com diligência normal, constate a sua existência, mesmo
+  que as cláusulas gerais figurem no verso do documento assinado."
+#+end_quote
+
+Depois, cita o Acórdão do TJCE Trasporti Castelletti Spedizioni
+Internazionali SpA v. Hugo Trumpy SpA, de 16/03/1999, que se debruçou
+sobre a norma paralela do art. 17.º da Convenção, e inúmeras vezes
+citado, em cujas considerações decisórias, aqui pertinentes (e que se
+reproduzem), se exarou:
+
+#+begin_quote
+  “(...) 48. Tal como o Tribunal de Justiça afirmou em diversas
+  ocasiões, obedece ao espírito de segurança jurídica, que constitui um
+  dos objectivos da convenção, o facto de o juiz nacional a quem foi
+  submetida a questão poder facilmente pronunciar-se sobre a sua própria
+  competência com base nas regras da convenção, sem ser obrigado a
+  proceder a um exame do processo quanto ao mérito (acórdãos de 22 de
+  Março de 1983, Peters, 34/82, Recueil, p. 987, n.° 17; de 29 de Junho
+  de 1994, Custom Made Commercial, C-288/92, Colect., p. 1-2913, n.° 20;
+  e Benincasa, já referido, n.° 27). Nos n.ºs 28 e 29 do acórdão
+  Benincasa, já referido, o Tribunal de Justiça precisou que esta
+  preocupação de garantir a segurança jurídica através da possibilidade
+  de prever com segurança o foro competente foi interpretada, no âmbito
+  do artigo 17.° da convenção, através da fixação de condições de forma
+  estritas, tendo esta disposição por objectivo designar, de forma clara
+  e precisa, um tribunal de um Estado contratante a quem é atribuída
+  competência exclusiva em conformidade com o consenso das partes.
+#+end_quote
+
+#+begin_quote
+
+  49. Resulta do exposto que a escolha do tribunal designado só pode ser
+      apreciada à luz de considerações ligadas às exigências
+      estabelecidas pelo artigo 17.°
+#+end_quote
+
+#+begin_quote
+
+  50. Foi por estas razões que o Tribunal de Justiça concluiu em várias
+      ocasiões que o artigo 17.° da convenção abstrai de qualquer
+      elemento objectivo de conexão entre a relação controvertida e o
+      tribunal designado (acórdãos de 17 de Janeiro de 1980, Zeiger,
+      56/79, Recueil, p. 89, n.° 4; MSG, já referido, n.° 34; e
+      Benincasa, já referido, n.° 28).
+#+end_quote
+
+#+begin_quote
+
+  51. Pelas mesmas razões, numa situação como a dos autos no processo
+      principal, deve excluir-se o controlo suplementar do mérito da
+      cláusula e do objectivo prosseguido pela parte que a inseriu, e
+      não pode ser reconhecida qualquer incidência, quanto à validade da
+      referida cláusula, das normas substantivas em matéria de
+      responsabilidade aplicáveis no tribunal escolhido.
+#+end_quote
+
+#+begin_quote
+
+  52. Deve, por consequência, responder-se às terceira, sétima e sexta
+      questões que o artigo 17.°, primeiro parágrafo, segunda frase,
+      terceira hipótese, da convenção deve ser interpretado no sentido
+      de que a escolha do tribunal designado numa cláusula atributiva de
+      jurisdição só pode ser apreciada à luz de considerações ligadas às
+      exigências estabelecidas pelo artigo 17.° da convenção. São
+      estranhas a estas exigências quaisquer considerações relativas aos
+      elementos de conexão entre o tribunal designado e a relação
+      controvertida, ao mérito da causa e às normas substantivas em
+      matéria de responsabilidade aplicáveis no tribunal escolhido” .
+#+end_quote
+
+Conclui que:
+
+#+begin_quote
+  “Acrescenta-se, também, e como já antes se demonstrou, que jamais
+  seria de recorrer ao art. 19.º, al. g), da LCCG, por se tratar de um
+  normativo de direito interno, não resultante do direito europeu, o
+  qual é insusceptível de prevalecer sobre o regime do art. 23.º do
+  Regulamento n.º 44/2001.
+#+end_quote
+
+#+begin_quote
+  Em resumo: a validade do pacto de jurisdição constante de uma cláusula
+  contratual geral integrada num contrato celebrado entre um empresário
+  ou entidade equiparada é analisada, exclusivamente, segundo o disposto
+  no art. 23.º do Regulamento n.º 44/2001.”
+#+end_quote
+
+Decisão correta, /mas/ não é inovadora nem rebelde.
+
+* Artigo 26.º (pacto tácito de jurisdição)
+  :PROPERTIES:
+  :CUSTOM_ID: artigo-26.º-pacto-tácito-de-jurisdição
+  :END:
+** STJ
+   :PROPERTIES:
+   :CUSTOM_ID: stj-6
+   :END:
+*** Acórdão do STJ de 12 de novembro de 2020, proc. 740/17.5T8LMG.C1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-12-de-novembro-de-2020-proc.-74017.5t8lmg.c1.s1
+    :END:
+Cita os seguintes acórdãos do TJUE sobre pacto tácito de jurisdição:
+
+- acórdão de 27 de Fevereiro de 2014, C-1/13;
+- acórdão de 20 de Maio de 2010, C-111/09;
+- acórdão de 17 de Março de 2016, C-175/15;
+- acórdão de 13 de junho de 2013, C-144/12.
+
+Cita acórdãos do STJ sobre pacto tácito de jurisdição:
+
+- acórdão do STJ de 10 de Maio de 2007, proc. 72/07;
+- acórdão do STJ de 8 de Novembro de 2007, proc. 3497/06;
+- acórdão do STJ de 14 de Outubro de 2014, proc. 147/13.3TVPRT-A.C1.S1;
+  e
+- acórdão do STJ de 14 de Dezembro de 2017, proc. 143378/15.0YIPRT.G1.S1
+  (*destaca este*).
+
+*** Acórdão do STJ de 14 de dezembro de 2017, proc.
+143378/15.0YIPRT.G1.S1 {#143378artigo7}
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-do-stj-de-14-de-dezembro-de-2017-proc.-14337815.0yiprt.g1.s1-143378artigo7
+    :END:
+Neste acórdão também se tratou o problema do pacto tácito de jurisdição.
+
+Não se forma pacto tácito de jurisdição /desde que o réu compareça e
+alegue a título principal a incompetência internacional/.
+
+A análise foi correta e foi citado o acórdão proferido no processo
+201/82, /Gerling Konzern Speziale Kreditversicherungs-AV e outros contra
+Amministrazione del tesoro dello Stato/
+
+* Reconhecimento e execução
+  :PROPERTIES:
+  :CUSTOM_ID: reconhecimento-e-execução
+  :END:
+** STJ
+   :PROPERTIES:
+   :CUSTOM_ID: stj-7
+   :END:
+*** Acórdão de 14 de março de 2017, proc. 736/14.9TVLSB.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-de-14-de-março-de-2017-proc.-73614.9tvlsb.l1.s1
+    :END:
+*Objeto do litígio:* autores obtiveram uma decisão do Luxemburgo que
+condenou o réu a pagar (a título provisório) a quantia de 3,5 milhões.
+Pediram a execução desta decisão em Portugal.
+
+No processo de /exequatur/ do Regulamento Bruxelas I *não* há dupla
+conforme com a decisão da 2.ª instância, porque o processo na 1.ª
+instância é um processo /sem contraditório, isto é, sem audição do
+requerido/.
+
+Afirmação interessante:
+
+#+begin_quote
+  "Ademais, em matéria de reconhecimento e execução, suscita-se ainda a
+  questão de saber se o tribunal do Estado requerido está vinculado à
+  qualificação do objeto da ação que foi realizada pelo tribunal de
+  origem, prevalecendo, atualmente (sob influência da jurisprudência do
+  Tribunal de Justiça), a orientação doutrinária favorável à liberdade
+  de qualificação do tribunal requerido."
+#+end_quote
+
+O STJ defende que:
+
+#+begin_quote
+  "Efetivamente, tal como já sucedia com a"Convenção de Bruxelas”, o
+  Regulamento (CE) nº 44/2001 não dispõe diferentemente caso se esteja
+  em presença de uma decisão proferida numa acção, numa providência
+  cautelar ou em procédure de référé, sendo, antes, aplicáveis as mesmas
+  regras, independentemente da tipologia da relação processual (relação
+  processual fundamental ou de natureza instrumental) ou da forma de
+  tutela concedida [tutela definitiva ou tutela provisória (podendo esta
+  ser, por seu turno, conservatória ou antecipatória)].”
+#+end_quote
+
+Cita o Ac. do TJUE /Denilauer/, proc. C-125/79, o qual estabelece que as
+providências cautelares proferidas /ex parte/ não beneficiam do regime
+de reconhecimento e execução da (à data) Convenção de Bruxelas e, agora,
+dos Regulamentos Bruxelas I e Bruxelas I /bis/.
+
+Cita o Ac. do TJUE /Prism Investments/, proc. C-139/10, «o artigo 45.°
+(...) deve ser interpretado no sentido de que se opõe a que o órgão
+jurisdicional que conhece de um recurso interposto nos termos dos
+artigos 43.° ou 44.° deste regulamento recuse ou revogue uma declaração
+de executoriedade de uma decisão com base num fundamento diferente dos
+indicados nos artigos 34.° e 35.° deste, como o cumprimento dessa
+decisão no Estado Membro de origem».
+
+STJ decide /corretamente/ que:
+
+#+begin_quote
+  "não há qualquer dúvida de que o mesmo Regulamento, não exige o
+  trânsito em julgado da decisão como um requisito da execução de uma
+  decisão estrangeira (nem a falta deste constitui fundamento de
+  revogação da declaração de executoriedade), sendo, assim, admissível a
+  concessão de exequatur a uma decisão que ainda não transitou em
+  julgado, desde que a decisão não transitada seja considerada título
+  executivo pela própria lei do Estado de origem."
+#+end_quote
+
+STJ interpreta /corretamente/ a jurisprudência do TJUE:
+
+#+begin_quote
+  “E, para estritos efeitos de aferição deste critério especial de
+  competência, segundo a jurisprudência do Tribunal de Justiça adoptada
+  no invocado Acórdão do TJ de 17.11.1998, Proc. C-391/95 (Van
+  Uden/Deco-Line) [e mantida no Acórdão de 27.04.1999, Proc. C-99/96
+  (Mietz/Intership Yachting Sneek)], não pode então ser qualificada como
+  medida provisória aquela que ordena o pagamento, a título de provisão,
+  de uma contraprestação contratual, a menos que, por um lado, esteja
+  assegurado ao requerido o reembolso da soma na hipótese de o
+  requerente não obter a procedência da causa principal e que, por
+  outro, a medida solicitada recaia apenas sobre bens determinados do
+  requerido que se situam, ou deviam situar, na esfera da competência
+  territorial do tribunal.
+#+end_quote
+
+#+begin_quote
+  Tal interpretação restritiva do conceito de "medidas provisórias ou
+  cautelares", conforme decorre dos aludidos Acórdãos do TJUE proferidos
+  nos casos Van Uden/Deco-Line e Mietz/Intership Yachting Sneek, é
+  efetuada apenas para efeitos de aferição da competência do "juiz das
+  medidas provisórias" (que não seja competente para a acção
+  definitiva), ou seja, na aceção relevante à luz do artigo 31º (âmbito
+  da competência direta).
+#+end_quote
+
+#+begin_quote
+  Todavia, em momento algum, no âmbito da competência indireta, e para
+  efeitos de declaração da executoriedade de uma decisão estrangeira
+  respeitante a uma medida provisória, proveniente de um tribunal
+  estadual competente para a ação principal, o TJUE adotou uma
+  interpretação restritiva do conceito de "medidas provisórias ou
+  cautelares" às "medidas provisórias conservatórias", na aceção
+  relevante à luz dos artigos 32º e 38º.”
+#+end_quote
+
+Cita Ac. TJUE Proc. C-414/92 (Solo Kleinmotoren/Boch) relativamente à
+necessidade de interpretar de forma estrita os fundamentos de recusa.
+
+Cita imensos Acórdãos do TJUE sobre o fundamento da reserva de OPI.
+
+Esta decisão é correta. A questão da dupla conforme parece ser nova, mas
+não releva para o estudo em causa.
+
+*** Acórdão de 9 de julho de 2015, proc. 134/14.4TBCBC.G1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-de-9-de-julho-de-2015-proc.-13414.4tbcbc.g1.s1
+    :END:
+*Objeto do litígio:* o autor pediu o reconhecimento e atribuição de
+força executiva a decisão francesa que condenou o réu a pagar-lhe as
+quantias de 10.586,18€, acrescida dos juros convencionais à taxa anual
+de 6%, a contar de 17/10/2005, e 10,00€, a título de indemnização legal,
+acrescida de juros, à taxa legal, a contar da data da sentença. Por
+decisão da 1.ª instância a sentença foi declarada executória. O Tribunal
+da Relação da Guimarães julgou procedente recurso e negou a declaração
+de executoriedade da sentença francesa, ao abrigo dos fundamentos do
+artigo 34.º, n.º 2 (garantia de defesa) e n.º 1 (ordem pública
+internacional).
+
+*Análise do STJ:* o STJ começa por explicar que, em 1.ª instância, não
+se podem verificar os motivos de recusa de reconhecimento ou de
+declaração de executoriedade (cita acórdão de 13 de outubro de 2011,
+/Prism Investments/, C-139/10).
+
+Depois, enuncia o que se deve entender por ordem pública internaciona,
+citando o acórdão Krombach, proc. C-7/98.
+
+Analisa, de seguida, o fundamento de recusa assenta na garantia de
+defesa (art. 34.º, n.º 2). Assinala que na certidão que acompanha a
+sentença estrangeira se deve fornecer a "data da citação ou notificação
+do acto que determinou o início da instância, no caso de a decisão ter
+sido proferida à revelia".
+
+E cita o acórdão Trade Agency do TJUE, de 6/09/12, Proc. C-619/10:
+
+#+begin_quote
+  “é pacífico que o facto de saber se o referido requerido recebeu
+  notificação do ato que dá início à instância constitui um elemento
+  pertinente da apreciação global, de natureza factual (v., neste
+  sentido, acórdão de 16 de junho de 1981, Klomps, 166/80, Recueil,
+  p. 1593, n.ºs 15 e 18), que deve ser conduzida pelo juiz do
+  Estado-Membro requerido, a fim de verificar se esse demandado dispôs
+  do tempo necessário para preparar a sua defesa ou levar a cabo as
+  diligências necessárias para evitar uma decisão proferida à revelia.
+#+end_quote
+
+#+begin_quote
+  Com efeito, antes de mais, impõe-se concluir que, como observou a
+  advogada-geral no n.° 31 das suas conclusões, nenhuma disposição do
+  Regulamento n.° 44/2001 proíbe expressamente ao tribunal do
+  Estado-Membro requerido verificar a exatidão das informações factuais
+  contidas na certidão, dado que os artigos 36.° e 45.°, n.° 2, deste
+  regulamento limitam a proibição da revisão de mérito unicamente à
+  decisão judicial do Estado-Membro de origem” (pontos nº 33.º e 35.º).
+#+end_quote
+
+Demonstra, depois, que a certidão /foi incorretamente preenchida/:
+
+#+begin_quote
+  "Na realidade, fazendo uso das informações prestadas na certidão
+  prevista no art. 54.º junta aos autos (fls. 15), constata-se ser ela
+  omissa quanto à indicação exigida da “data da citação ou notificação
+  do acto que determinou o início da instância, no caso de a decisão ter
+  sido proferida à revelia", como foi. Mais rigorosamente, nesse item e
+  no seu lugar, fez-se constar uma outra informação que nele não quadra,
+  a da "Data da notificação: 14 de Junho de 2007", correspondente ao dia
+  em que decorreram as diligências com vista a notificar o
+  requerido/apelante da sentença proferida no Tribunal de Pontoise, e
+  não do acto que determinou o início da instância que, como é evidente,
+  teria de ocorrer necessariamente antes, ou muito antes, da prolação da
+  sentença em 3/04/2007.”
+#+end_quote
+
+A decisão /não é/ inovatória /nem/ rebelde.
+
+*** Acórdão de 20 de novembro de 2014, proc. 7614/12.4TBCSC.L1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: acórdão-de-20-de-novembro-de-2014-proc.-761412.4tbcsc.l1.s1
+    :END:
+*Objeto do litígio:* Foi pedido, ao abrigo do Regulamento Bruxelas I, o
+/exequatur/ de sentença holandesa condenatória no pagamento de cerca
+190.000,00 euros. Requerido alegou que a concessão de /exequatur/
+violava à ordem pública internacional portuguesa porque teria sido
+violado o princípio do processo equitativo, por o intérprete não ter
+desempenhado corretamente as suas funções.
+
+*Análise:* o STJ referiu:
+
+#+begin_quote
+  “Ora a verdade é que ambas as partes estavam representadas por
+  advogado, na audiência correspondente. Nada consta, na sentença, sobre
+  uma eventual reacção da parte -- insista-se, representada por advogado
+  -- quanto a uma hipotética inadequação da tradução, prejudicial à
+  recorrente; e, portanto, nada consta sobre qualquer decisão do juiz no
+  sentido de não ter em conta essa hipotética inadequação.
+#+end_quote
+
+#+begin_quote
+  Não tem nenhum fundamento entender que é da ordem pública processual
+  do Estado português exigir que seja o juiz a assegurar-se que, num
+  processo civil em que as partes estão representadas por advogado, e em
+  que os representantes de uma das partes não entendem a língua do
+  processo mas são assistidos por um intérprete devidamente credenciado
+  para o efeito, quando são chamados a depor em audiência, incumba ao
+  juiz garantir mais do que essa possibilidade de intervenção do
+  intérprete.”
+#+end_quote
+
+#+begin_quote
+  (...)
+#+end_quote
+
+#+begin_quote
+  "Apenas se entende que: se a parte está representada por advogado; se
+  é assistida por um intérprete formalmente credenciado; se não suscita
+  perante o tribunal (ou em via de recurso) a incapacidade concreta do
+  intérprete e a impossibilidade de prestação de depoimento esclarecido
+  por incompreensão provocada por essa incapacidade de tradução, de modo
+  a permitir uma eventual correcção e, de qualquer modo, a obter uma
+  decisão sobre a questão, então não pode vir posteriormente invocar a
+  violação do princípio da igualdade na produção de prova, ou desta
+  vertente do processo equitativo, para impedir a exequibilidade da
+  sentença que tenha valorado o depoimento, no contexto global de
+  apreciação da prova."
+#+end_quote
+
+Concordo com a análise. # Artigo 71.º (relações com convenções
+internacionais)
+
+** STJ
+   :PROPERTIES:
+   :CUSTOM_ID: stj-8
+   :END:
+*** Acórdão de 17 de novembro de 2020, proc. 6471/17.9T8BRG.G1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: STJ6471
+    :END:
+*Objeto do litígio:* contrato de transporte de mercadorias por estrada,
+cujo local de carregamento ou recolha de mercadorias (a cargo do
+transportador) foi Esmeriz/Portugal, e o de entrega era
+Copenhaga/Dinamarca.
+
+Cita, sobre o artigo 71.º: - Acórdão do TJUE (Terceira Secção) de 28 de
+outubro de 2004, /Nürnberger Allgemeine Versicherungs AG contra
+Portbridge Transport International BV/, C-148/03; - Acórdão do TJUE
+(Grande Secção) de 4 de maio de 2010, /TNT Express Nederland BV contra
+AXA Versicherung AG/, Proc. C-533/08 - Acórdão do TJUE (Terceira Secção)
+de 19 de dezembro de 2013, Nipponkoa Insurance Co. (Europe) Ltd contra
+Inter-Zuid Transport BV, Processo C-452/12 - Acórdão do TJUE (Primeira
+Secção) de 4 de setembro de 2014, Nickel & Goeldner Spedition GmbH
+contra «Kintra» UAB, Processo C 157/13
+
+* Obter doutrina
+  :PROPERTIES:
+  :CUSTOM_ID: obter-doutrina
+  :END:
+*Moura Ramos, Aplicabilidade de cláusulas atributivas de jurisdição em
+acções de responsabilidade emergente de práticas consideradas de abuso
+de posição dominante, anotação ao acórdão do STJ de 16 de Fevereiro de
+2016, in Revista de Legislação e de Jurisprudência, Ano 147º, págs. 265
+e segs.* já pedi à Biblioteca

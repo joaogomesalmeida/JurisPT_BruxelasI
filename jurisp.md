@@ -182,6 +182,46 @@ Cita os seguintes acórdãos do STJ:
 Aplicou corretamente o artigo 7.º/1/*b)*.
 
 
+### Acórdão do STJ de 14 de dezembro de 2017, proc. 143378/15.0YIPRT.G1.S1 {STJ143378artigo7}
+
+**Objeto de litígio:** incumprimento de contratos que têm como objecto a venda de bens a produzir ou fabricar pelo vendedor (autor), segundo modelos ou, como se exprime a Relação, protótipos, definidos pelo comprador (ré), que os encomendou à autora para vender a terceiros, a entregar em Espanha (país da sede da Ré).
+
+Cita, aparentemente de forma correta, os acórdãos *Car Trim* e *Falco Privatstiftung* do TJUE:
+
+> "No já citado acórdão Car Trim, no qual estava em causa um contrato mediante o qual “a Key Safety, estabelecida em Itália, fornece sistemas de airbags a fabricantes italianos e automóveis e comprou, à Car Trim, componentes que entram no fabrico desses sistemas, de acordo com cinco contratos de fornecimento” – entendeu-se que, “para determinar a obrigação característica desses contratos como critério de conexão ao tribunal competente” (ponto 32), “O artigo 5º, nº 1, do Regulamento nº 44/2001 (…) deve ser interpretado no sentido de que os contratos cujo objecto é a entrega de bens a fabricar ou a produzir, mesmo que o comprador tenha formulado determinadas exigências a respeito da obtenção, da transformação e da entrega dos bens, sem que os materiais tenham sido por ele fornecidos, e mesmo que o fornecedor seja responsável pela qualidade e pela conformidade do bem com o contrato, devem se qualificados de «venda de bens», na acepção do artigo 5º,  nº 1, alínea a), primeiro travessão, do regulamento”. 
+
+> Considerou-se, portanto, que “para determinar a obrigação característica de um contrato cujo objecto é a entrega de bens a fabricar ou a produzir, quando o comprador tenha formulado determinadas exigências a respeito da obtenção, da transformação e da entrega dos bens, o facto de o bem a entregar ter de ser fabricado ou produzido previamente não altera a qualificação do contrato em causa como contrato de compra e venda. Além disso, outros elementos como, por um lado, o não fornecimento de materiais pelo comprador, e, por outro, a responsabilidade do fornecedor pela qualidade e pela conformidade do bem constituem indícios a favor de uma qualificação desse contrato como «contrato de venda de bens», não sendo, todavia, elementos essenciais para o efeito (cfr. acórdão Falco Privatstiftung, quanto à prestação de serviços)."
+
+Considerou que os contratos em causa deviam ser qualificados, autonomamente, como contratos de compra e venda, para efeitos do artigo 7.º do Regulamento Bruxelas I *bis*.
+
+### Acórdão do STJ de 5 de abril de 2016, proc. 27630/13.8YIPRT-A.G1.S1
+
+**Objeto do litígio:** Empresa portuguesa pediu a condenação de empresa francesa, no pagamento de “factura respeitante a obra de caixilharia de alumínio, encomendada pela demandada, por ela recebida sem reclamações, na sede da demandante, aí carregada e transportada por conta da demandada”.
+
+STJ qualificou o contrato como de compra e venda (e não de serviços, como o faziam as partes):
+
+> "o certo é que foi convencionado que a entrega da caixilharia executada pela Autora, sob encomenda da Ré, seria entregue no domicílio do cliente em França, sendo que a injunção não se reporta senão à obrigação alegadamente incumprida pela Ré do não pagamento do preço.
+
+> A relação jurídico-contratual tem mais afinidade com um contrato de compra e venda – art. 874º do Código Civil – que com um contrato de prestação de serviços, uma vez que até foi convencionada a entrega da coisa no domicílio do comprador a efectuar pela Autora.
+
+> Por outro lado, tendo sido convencionada a entrega da caixilharia na sede da Ré, em França, existe um convenção de entrega da coisa a cargo da Autora que, na economia do contrato, assume um elemento essencial no que respeita ao “lugar onde os bens devem ser entregues ou onde os serviços devem ser prestados”."
+
+Não citou acórdãos do TJUE.
+
+### Acórdão STJ de 19 de novembro de 2015, proc. 2864/12.6TBVCD.P1.S1
+
+**Objeto do litígio:** empresa com sede em Portugal intentou, perante tribunais portugueses, ação contra empresa com sede em Espanha (Barcelona) alegando que entre elas existia uma relação comercial caracterizada por integrar um contrato misto de agência e de concessão comercial, incumprido pela R. e por ela ilicitamente resolvido, peticionando o pagamento da quantia de € 195.614,64 e respectivos juros de mora, a título de ressarcimento dos danos causados.
+
+A relação contratual, firmada por contrato escrito, continha um pacto de jurisdição a favor dos tribunais espanhois, tendo a ré invocado a exceção dilatória de incompetência internacional. A autora alegou que o pacto era nulo, por força do regime da Lei das Cláusulas Contratuais Gerais (art. 19.º, alínea *h)*, uma vez que haveria grave inconveniente em litigar perante tribunais espánhois. Alegou ainda a caducidade do pacto, por força da caducidade do contrato, uma vez que alegou que o mesmo não se tinha renovado.
+
+**Análise do STJ:** começou por *corrigir* um erro cometido pelas instâncias inferiores: *caso* não existisse pacto de jurisdição, os tribunais portugueses seriam *muito provavelmente* internacionalmente competentes nos termos do artigo 5.º, n.º 1, al. *b)* do Regulamento Bruxelas I, uma vez que estaríamos perante um contrato misto de agência e de concessão comercial, em que os serviços prestados (angariação de clientela e representação comercial) tiveram lugar em Portugal.
+
+Sobre o pacto de jurisdição:
+1. Afirma a jurisprudência constante de que os requisitos do pacto de jurisdição são regulados de forma *exaustiva* pelo Regulamento Bruxelas I. Nas palavras do STJ: "Em suma: **não é aplicável aos pactos privativos de jurisdição regidos pelo Regulamento 44/2001 o requisito – condicionador da legitimidade da eleição do foro - previsto em disposições de direito interno, quer no âmbito do CPC, quer no do regime das cláusulas contratuais gerais, segundo o qual tal eleição está condicionada à exigência de que a fixação do foro competente não envolva inconveniente grava para nenhuma das partes**" - com este argumento afasta a invocação do artigo 94.º do CPC e do artigo 19.º, al. *h)* da LCCG;
+2. Não analisa as questões de *vinculatividade* e de *subsistência atual* do pacto de jurisdição, por considerar que as mesmas *não* são questões de direito: assim determinou a baixa do processo.
+
+Decisão *não é* inovadora *nem* rebelde.
+
 # Artigo 24.º (Competências exclusivas)
 
 ## STJ
@@ -202,6 +242,14 @@ O STJ cita o Acórdão do TJUE C-4/03, no qual se afirmou que:
 
 Conclui pela incompetência do tribunal arbitral para decidir da invalidade da patente.
 
+
+### Acórdão do STJ de 22 de março de 2018, proc. 1053/16.5YRLSB.S1.S1
+
+**Objeto do litígio:**
+
+Refere, apenas incidentalmente, o Regulamento Bruxelas I *bis* e um Acórdão do TJUE, proc. C-4/03:
+
+> "Nesse sentido, apela para a nova redacção do artigo 24.º, n.º 4, do Regulamento n.º 1215/2012 e para a consagração da doutrina da decisão do TJUE no Acórdão de 13-07-2006 (proc. C-4/03) – amplamente citado no acórdão do Supremo Tribunal de Justiça objecto do comentário – segundo a qual, tal como a nulidade de uma patente só pode ser apreciada, mesmo de forma incidental, no tribunal exclusivamente competente (em termos de competência internacional e territorial), também a competência (material) exclusiva dos tribunais estaduais estabelecida no artigo 35.º, n.º 1, do CPI impede a apreciação incidental da validade da patente fora desses tribunais."
 
 # Artigo 25.º (pacto de jurisdição) {artigo25}
 
@@ -325,11 +373,11 @@ Fundamenta a sua decisão no Acórdão do TJUE processo C-595/17, EU:C:2018:854:
 
 > 2) O artigo 23.º do Regulamento n.º 44/2001 deve ser interpretado no sentido de que a aplicação de uma cláusula atributiva de jurisdição no âmbito de uma ação de indemnização intentada por um distribuidor contra o seu fornecedor ao abrigo do artigo 102.º TFUE não depende da constatação prévia de uma infração ao direito da concorrência por uma autoridade nacional ou europeia.” [negritos nossos]."
 
-E conclui pela aplicação do pacto de jurisidção.
+E conclui pela aplicação do pacto de jurisdição.
 
 **Moura Ramos, Aplicabilidade de cláusulas atributivas de jurisdição em acções de responsabilidade emergente de práticas consideradas de abuso de posição dominante, anotação ao acórdão do STJ de 16 de Fevereiro de 2016, in Revista de Legislação e de Jurisprudência, Ano 147º, págs. 265 e segs. especialmente, pág. 278**
 
-Moura Ramos, p. 277, nota 69, dá conta de que o TJUE foi chamado a pronunciar-se sobre aplicação de pacto de jurisdição a alegada violação do artigo 102.º do TFUE por um fornecedor de um distribuidor. **Procurar este acordão**.
+Moura Ramos, p. 277, nota 69, dá conta de que o TJUE foi chamado a pronunciar-se sobre aplicação de pacto de jurisdição a alegada violação do artigo 102.º do TFUE por um fornecedor de um distribuidor. **É o acórdão C-595/17**.
 
 ### Acórdão do STJ de 13 de novembro de 2018, proc. 6919/16.0T8PRT.G1.S1
 
@@ -355,6 +403,130 @@ Seguindo o Acórdão *Saey Home & Garden v. Lusavouga*, no qual se entendeu que 
 
 Depois desta conclusão passa a análise do [artigo 7.º]{STJ6919}.
 
+### Acórdão do STJ de 9 de fevereiro de 2017, proc. 1387/15.6T8PRT-B.L1.P1-A
+
+**Objeto do litígio:** Empresa com sede em Espanha celebrou com sucursal espanhola de Banco contrato de empréstimo, com pacto de jurisdição a favor dos tribunais espanhois. Celebrou depois dois contratos de *swap*, em que há um pacto de jurisdição a favor dos tribunais portugueses.
+
+**Análise:** Recorrente defendeu aplicação do artigo 31.º/1 do Regulamento Bruxelas I *bis*.
+
+STJ recusou porque considerou que não estamos perante situações em que é necessário prevenir "decisões inconciliáveis" e, *sobretudo*, porque não estamos perante uma situação de *litispendência ou conexão*, pois não há notícia de estar pendente uma outra ação nos tribunais de outro Estado-Membro, o que inviabiliza a aplicação do artigo 31.º do Regulamento Bruxelas I *bis*.
+
+STJ decidiu bem, pois o pacto de jurisdição prevalece sobre a competência por conexão (embora não tenha citado, por exemplo, o caso *Estasis* 24/76).
+
+### Acórdão do STJ de 6 de setembro de 2016, proc. 1386/15.8T8PRT-B.P1.S1
+
+**Objeto do litígio:** contrato de empréstimo e contrato de *swap* celebrados entre uma empresa com sede em Espanha e uma empresa com sede em Portugal. No contrato de empréstimo consta um pacto de jurisdição exclusiva em favor dos tribunais de Vigo.
+
+STJ decide corretamente que:
+
+> "Este Supremo Tribunal tem acolhido, como decorrência desses princípios, a independência da noção e a prevalência do regime (e respectivo alcance) do pacto (convenção) atributivo de jurisdição constante do já citado art. 25º ([10]), face a requisitos formais eventualmente mais exigentes que lhe sejam impostos pelos direitos nacionais dos estados-membros. Nessa senda, regista-se, desde logo, que, à luz do Regulamento, não cabe aferir da eventual aplicação do disposto em normas de direito nacional, como as vertidas no CPC (nomeadamente a do art. 94º) ou da LCCG (cláusulas contratuais gerais) e é completamente irrelevante a pretensão de se submeter ou condicionar o exercício da autonomia da vontade à existência de uma conexão estreita do litígio à ordem jurisdicional a que se atribui competência para dele conhecer, sendo, por isso, desnecessário que tal pacto se mostre justificado por um interesse sério de, pelo menos, uma das partes ([11]), sem que envolva inconveniente grave para a outra, e sendo, consequentemente, desconsideradas as eventuais vantagens ou desvantagens que daí advenham."
+
+Cita acórdão do STJ de 4 de fevereiro de 2016, proc. 536/14.6TVLSB.L1.S1
+
+### Acórdão do STJ de 21 de abril de 2016, proc. 538/14.2TVLSB.L1.S1
+
+**Objeto do litígio:** contrato *swap* celebrado entre entidade pública da região autónoma da Madeira e filial portuguesa de Banco espanhol, no qual consta um pacto de jurisdição a favor dos tribunais ingleses e uma cláusula de escolha da lei inglesa e a estipulação de que o Banco podia efetuar transações através das suas filiais em Londres e no Luxemburgo.
+
+**Análise:**
+
+STJ refere que:
+
+> "Para caracterizar a “estraneidade”, idealmente contida no art.º 23.º do Regulamento, é suficiente que o possível cumprimento das obrigações contratuais possa ocorrer no Estado-Membro a quem se defere a competência e que a conexão dos acordos celebrados se configure, visivelmente, como estando envolvidos no âmbito de um encadeamento de interesses financeiros de perfil internacional."
+
+Aqui o STJ assinala o *carácter internacional* do contrato de *swap* e a conexão com os contratos de empréstimo internacionais.
+
+Cita Acórdãos do TJUE:
+
+> "Acórdãos Owusu (processo C- 281/02), de 01-03-2005; Lindner (processo C- 327/10), de 17-11-2011 e Maletic (processo C-478/12), de 14-11-2013.
+
+> “…Para que a escolha do tribunal seja válida é desnecessário que exista qualquer conexão entre o objecto do litígio e o tribunal designado, não sendo valoráveis, designadamente, os hipotéticos inconvenientes, para uma das partes, da localização do foro convencionado - Ac. STJ de 04.02.2016; Lopes do Rego (Relator); www.dgsi.pt."
+
+Conclui que:
+
+> "Segundo jurisprudência pacífica do TJUE, os requisitos de validade e de convenção de competência apenas são aqueles que constam do art. 23.º do Regulamento n.º 44/2001, pelo que o direito dos Estados-Membros não pode acrescentar outros; e ainda para que a escolha do tribunal seja válida não é necessário que exista uma qualquer conexão entre o objecto do litígio e o tribunal designado, não sendo valoráveis, consequentemente, hipotéticos inconvenientes para uma das partes (no caso, para a recorrente), decorrentes da localização do foro convencionado.
+
+> Em função da autonomia e exclusividade do normativo inserto no art. 23.º do Regulamento n.º 44/2001, não cabe aquilatar, por estar prejudicado, da eventual aplicação do disposto em normas de direito nacional, nomeadamente, as vertidas nos artigos 94.º do NCPC (2013) e 19.º, n.º 1, al. g), da LCCG - Acórdão de 26.01.2016; Garcia Calejo (Relator); www.dgsi.pt."
+
+Situação semelhante (praticamente idêntica) à do [Acórdão do STJ de 4 de fevereiro de 2016, proc. 536/14.6TVLSB.L1.S1](STJ536).
+
+### Acórdão do STJ de 17 de março de 2016, proc. 588/13.6TVPRT.P1.S1
+
+**Objeto do litígio:** Autora pediu a condenação da Ré no pagamento de uma indemnização, porque entre ambas foi celebrado um contrato de concessão comercial para comercialização do software produzido pela mesma (K anti-vírus, anti-spam e internet security) em Portugal, em regime de exclusividade, o qual perdurou durante cerca de 10 anos, sendo que a Ré incumpriu de forma ilícita e culposa o referido contrato, gerando danos à Autora.
+
+**Análise:** STJ decidiu bem a questão da incompetência internacional, considerando que a LCCG não permite afastar o pacto de jurisdição, seguindo a posição assumida pelo TJUE e pela doutrina de que a validade dos pactos se avalia *apenas* nos termos do artigo 25.º do Regulamento Bruxelas I *bis* (e, respetivamente, dos artigo 23.º do Regulamento Bruxelas I e 17.º da Convenção de Bruxelas). 
+
+### Acórdão do STJ de 16 de fevereiro de 2016, proc. 135/12.7TCFUN.L1.S1
+
+**Objeto do litígio:** “AA, SA” e “BB, SA” (sede Madeira) instauram a presente acção contra a “CC” (“CC”) (sede Irlanda), pedindo: i) “ser a prática de abusos de posição dominante pela R., ao abrigo do artigo 6º da Lei nº 18/2003, de 11 de Junho, e do artigo 102º do TFUE; ii) ser declarada a prática de abusos de dependência económica pela R., designadamente na imposição do contrato GG, celebrado contra disposição imperativa da lei, proibido ao abrigo do artigo 7º da Lei 18/2003, de 11 de Junho; iii) ser a R. declarada a pagar à “AA” 39.183.667,40 € (trinta e nove milhões, cento e oitenta e três mil, seiscentos e sessenta e sete euros e quarenta cêntimos), acrescidos de juros moratórios contados à taxa legal, desde a citação até efectivo e integral pagamento; e iv) ser a R. condenada a pagar à “BB” 1.042.791,76 (um milhão e quarenta e dois mil setecentos e novecentos e um euros e setenta e seis cêntimos), acrescidos de juros moratórios contados à taxa legal, desde a citação até efectivo e integral pagamento.”
+
+**Análise:** STJ considera que os factos constantes da PI apontam para uma relação contratual que uma das partes violou. Considerou, por isso, estarmos perante uma relação contratual e considerou aplicável o pacto de jurisdição.
+
+A análise parece-me duvidosa. Teria preferido uma qualificação delitual, mas abrangida ainda assim pelo pacto.
+
+Este acórdão tem comentário do Moura Ramos:
+
+**Moura Ramos, Aplicabilidade de cláusulas atributivas de jurisdição em acções de responsabilidade emergente de práticas consideradas de abuso de posição dominante, anotação ao acórdão do STJ de 16 de Fevereiro de 2016, in Revista de Legislação e de Jurisprudência, Ano 147º, págs. 265 e segs. especialmente, pág. 278**
+
+Moura Ramos, p. 277, nota 69, dá conta de que o TJUE foi chamado a pronunciar-se sobre aplicação de pacto de jurisdição a alegada violação do artigo 102.º do TFUE por um fornecedor de um distribuidor. **É o acórdão C-595/17**.
+
+Aí o TJUE disse: 
+> "29. Assim, há que salientar que, no âmbito de uma ação ao abrigo do artigo 102.o TFUE, não se pode considerar que a tomada em consideração de um pacto atributivo de jurisdição que faz referência a um contrato e à relação correspondente ou às relações dele decorrentes entre as partes surpreenda uma das partes na aceção da jurisprudência referida no n.o 22 do presente acórdão.
+
+> 30. Em face do exposto, há que responder à primeira e segunda questões que o artigo 23.o do Regulamento n.o 44/2001 deve ser interpretado no sentido de que a aplicação, a uma ação de indemnização intentada por um distribuidor contra o seu fornecedor ao abrigo do artigo 102.o TFUE, de uma cláusula atributiva de jurisdição contida no contrato que vincula as partes não está excluída pelo simples facto de essa cláusula não se referir expressamente aos litígios relativos à responsabilidade decorrente de uma infração ao direito da concorrência"
+
+
+### Acórdão do STJ de 4 de fevereiro de 2016, proc. 536/14.6TVLSB.L1.S1 {#STJ536}
+
+**Objeto do litígio:** contrato *swap* celebrado entre entidade pública da região autónoma da Madeira e filial portuguesa de Banco espanhol, no qual consta um pacto de jurisdição a favor dos tribunais ingleses e uma cláusula de escolha da lei inglesa e a estipulação de que o Banco podia efetuar transações através das suas filiais em Londres e no Luxemburgo.
+
+Discutiu-se se estavamos perante uma situação *puramente interna* ou *internacional*.
+
+STJ recusou fazer reenvio prejudicial porque a *dúvida* existente (a estipulação de um pacto de jurisdição é suficiente para *internacionalizar* uma determinada situação jurídica?) *não* tinha relevância prática no caso concreto, uma vez que existiam outros elementos de estraneidade na situação jurídica litigiosa. Citou vários acórdãos do TJUE, nomeadamente *CILFIT* e *Owusu*.
+
+STJ considerou, no caso concreto, decisivos os seguintes elementos:
+- a fixação de lugares de cumprimento alternativos (portugal, londres e luxemburgo);
+- a cláusula de escolha de lei (seguindo aqui a tese de Lagard/Jenard, ao contrário da posição de Lima Pinheiro):
+
+> "Acresce que, no caso em análise, as partes – no exercício da respectiva autonomia da vontade – não se limitaram a estipular um pacto de jurisdição, reservando a competência internacional aos tribunais ingleses – estabelecendo também que o mérito ou substância da relação contratual seria regida pelo Direito anglo saxónico: ora, como nos parece evidente, não pode qualificar-se como relação jurídica puramente interna aquela que as partes voluntariamente quiseram submeter a um direito estrangeiro."
+
+- A conexão dos contratos de *swap* com os contratos de empréstimo celebrados pela A. com bancos estrangeiros.
+
+Cita Ac. *Maletic*, proc. C-478/12.
+
+Conclusão: 
+
+> "Considera-se, pois, claro, face ao relevo que o Direito Comunitário e a jurisprudência do TJ vêm conferindo à autonomia da vontade das partes na estipulação da competência internacional, que bastam como elementos de estraneidade do litígio sujeito a pacto de jurisdição o local possível de cumprimento de obrigações contratuais, a submissão, no exercício da autonomia da vontade das partes, da substância do litígio a um direito material estrangeiro e a conexão – senão jurídica, ao menos funcional e económica - dos contratos de derivados financeiros celebrados por contraentes sediados em Portugal a contratos de mútuo bancário de contexto claramente internacional – determinando a ponderação global de todos esses elementos de internacionalidade que a relação contratual em litígio não possa qualificar-se como relação puramente interna, susceptível de obstar à aplicação da disciplina contida no art. 23º do Regulamento 44/2001."
+
+
+### Acórdão do STJ de 11 de fevereiro de 2015, proc. 877/12.7TVLSB.L1-A.S1
+
+**Objeto do litígio:** o autor (sede em Portugal) pediu, junto dos tribunais portugueses, a resolução do contrato de *swap* celebrado com o réu (sedeado em Londres), com fundamento em alteração das circunstâncias (art. 437.º do CC). O *master agreement* tem uma cláusula de escolha de lei a favor dos tribunais ingleses.
+
+**Análise do STJ:** cita o Acórdão do TJCE Estasis Salotti di Colzani v. Rüwa, de 14/12/1976, quanto à validade formal do pacto de jurisdição e o Acórdão do TJCE Benincasa v. Dentalkit, de 03/07/1997, quanto ao facto de a nulidade do contrato não afetar a validade do pacto de jurisdição.
+
+Sobre o problema da LCCG, e depois de invocar que a questão não podia ser conhecida por força do princípio da concentração da defesa e discordar da posição expendida pela Relação sobre a distribuição do ónus da prova, o STJ cita novamente o Acórdão do Estasis Salotti di Colzani v. Rüwa:
+
+> "Nessa situação o que o TJCE considerou – designadamente no já citado Acórdão do Estasis Salotti di Colzani v. Rüwa[52] – é que se o pacto constar de cláusulas contratuais gerais é necessário a sua referência ou remissão expressa, no contrato assinado pelas partes, para que o contraente, com diligência normal, constate a sua existência, mesmo que as cláusulas gerais figurem no verso do documento assinado."
+
+Depois, cita o Acórdão do TJCE Trasporti Castelletti Spedizioni Internazionali SpA v. Hugo Trumpy SpA, de 16/03/1999, que se debruçou sobre a norma paralela do art. 17.º da Convenção, e inúmeras vezes citado, em cujas considerações decisórias, aqui pertinentes (e que se reproduzem), se exarou:
+
+> “(…) 48. Tal como o Tribunal de Justiça afirmou em diversas ocasiões, obedece ao espírito de segurança jurídica, que constitui um dos objectivos da convenção, o facto de o juiz nacional a quem foi submetida a questão poder facilmente pronunciar-se sobre a sua própria competência com base nas regras da convenção, sem ser obrigado a proceder a um exame do processo quanto ao mérito (acórdãos de 22 de Março de 1983, Peters, 34/82, Recueil, p. 987, n.° 17; de 29 de Junho de 1994, Custom Made Commercial, C-288/92, Colect., p. 1-2913, n.° 20; e Benincasa, já referido, n.° 27). Nos n.ºs 28 e 29 do acórdão Benincasa, já referido, o Tribunal de Justiça precisou que esta preocupação de garantir a segurança jurídica através da possibilidade de prever com segurança o foro competente foi interpretada, no âmbito do artigo 17.° da convenção, através da fixação de condições de forma estritas, tendo esta disposição por objectivo designar, de forma clara e precisa, um tribunal de um Estado contratante a quem é atribuída competência exclusiva em conformidade com o consenso das partes.
+
+> 49. Resulta do exposto que a escolha do tribunal designado só pode ser apreciada à luz de considerações ligadas às exigências estabelecidas pelo artigo 17.°
+
+> 50. Foi por estas razões que o Tribunal de Justiça concluiu em várias ocasiões que o artigo 17.° da convenção abstrai de qualquer elemento objectivo de conexão entre a relação controvertida e o tribunal designado (acórdãos de 17 de Janeiro de 1980, Zeiger, 56/79, Recueil, p. 89, n.° 4; MSG, já referido, n.° 34; e Benincasa, já referido, n.° 28).
+
+> 51. Pelas mesmas razões, numa situação como a dos autos no processo principal, deve excluir-se o controlo suplementar do mérito da cláusula e do objectivo prosseguido pela parte que a inseriu, e não pode ser reconhecida qualquer incidência, quanto à validade da referida cláusula, das normas substantivas em matéria de responsabilidade aplicáveis no tribunal escolhido.
+
+> 52. Deve, por consequência, responder-se às terceira, sétima e sexta questões que o artigo 17.°, primeiro parágrafo, segunda frase, terceira hipótese, da convenção deve ser interpretado no sentido de que a escolha do tribunal designado numa cláusula atributiva de jurisdição só pode ser apreciada à luz de considerações ligadas às exigências estabelecidas pelo artigo 17.° da convenção. São estranhas a estas exigências quaisquer considerações relativas aos elementos de conexão entre o tribunal designado e a relação controvertida, ao mérito da causa e às normas substantivas em matéria de responsabilidade aplicáveis no tribunal escolhido” .
+
+Conclui que:
+
+> "Acrescenta-se, também, e como já antes se demonstrou, que jamais seria de recorrer ao art. 19.º, al. g), da LCCG, por se tratar de um normativo de direito interno, não resultante do direito europeu, o qual é insusceptível de prevalecer sobre o regime do art. 23.º do Regulamento n.º 44/2001.
+
+> Em resumo: a validade do pacto de jurisdição constante de uma cláusula contratual geral integrada num contrato celebrado entre um empresário ou entidade equiparada é analisada, exclusivamente, segundo o disposto no art. 23.º do Regulamento n.º 44/2001."
+
+Decisão correta, *mas* não é inovadora nem rebelde.
 
 # Artigo 26.º (pacto tácito de jurisdição)
 
@@ -375,6 +547,15 @@ Cita acórdãos do STJ sobre pacto tácito de jurisdição:
 - acórdão do STJ de 8 de Novembro de 2007, proc. 3497/06;
 - acórdão do STJ de 14 de Outubro de 2014, proc. 147/13.3TVPRT-A.C1.S1; e
 - acórdão do STJ de 14 de Dezembro de 2017, proc. 143378/15.0YIPRT.G1.S1 (**destaca este**). 
+
+
+### Acórdão do STJ de 14 de dezembro de 2017, proc. 143378/15.0YIPRT.G1.S1 {#143378artigo7}
+
+Neste acórdão também se tratou o problema do pacto tácito de jurisdição.
+
+Não se forma pacto tácito de jurisdição *desde que o réu compareça e alegue a título principal a incompetência internacional*.
+
+A análise foi correta e foi citado o acórdão proferido no processo 201/82, *Gerling Konzern Speziale Kreditversicherungs-AV e outros contra Amministrazione del tesoro dello Stato*
 
 
 # Reconhecimento e execução
@@ -415,6 +596,43 @@ Cita imensos Acórdãos do TJUE sobre o fundamento da reserva de OPI.
 
 Esta decisão é correta. A questão da dupla conforme parece ser nova, mas não releva para o estudo em causa.
 
+### Acórdão de 9 de julho de 2015, proc. 134/14.4TBCBC.G1.S1
+
+**Objeto do litígio:** o autor pediu o reconhecimento e atribuição de força executiva a decisão francesa que condenou o réu a pagar-lhe as quantias de 10.586,18€, acrescida dos juros convencionais à taxa anual de 6%, a contar de 17/10/2005, e 10,00€, a título de indemnização legal, acrescida de juros, à taxa legal, a contar da data da sentença. Por decisão da 1.ª instância a sentença foi declarada executória. O Tribunal da Relação da Guimarães julgou procedente recurso e negou a declaração de executoriedade da sentença francesa, ao abrigo dos fundamentos do artigo 34.º, n.º 2 (garantia de defesa) e n.º 1 (ordem pública internacional).
+
+**Análise do STJ:** o STJ começa por explicar que, em 1.ª instância, não se podem verificar os motivos de recusa de reconhecimento ou de declaração de executoriedade (cita acórdão de 13 de outubro de 2011, *Prism Investments*, C-139/10).
+
+Depois, enuncia o que se deve entender por ordem pública internaciona, citando o acórdão Krombach, proc. C-7/98.
+
+Analisa, de seguida, o fundamento de recusa assenta na garantia de defesa (art. 34.º, n.º 2). Assinala que na certidão que acompanha a sentença estrangeira se deve fornecer a “data da citação ou notificação do acto que determinou o início da instância, no caso de a decisão ter sido proferida à revelia”.
+
+E cita o acórdão Trade Agency do TJUE, de 6/09/12, Proc. C-619/10: 
+
+> “é pacífico que o facto de saber se o referido requerido recebeu notificação do ato que dá início à instância constitui um elemento pertinente da apreciação global, de natureza factual (v., neste sentido, acórdão de 16 de junho de 1981, Klomps, 166/80, Recueil, p. 1593, n.ºs 15 e 18), que deve ser conduzida pelo juiz do Estado-Membro requerido, a fim de verificar se esse demandado dispôs do tempo necessário para preparar a sua defesa ou levar a cabo as diligências necessárias para evitar uma decisão proferida à revelia.
+
+> Com efeito, antes de mais, impõe-se concluir que, como observou a advogada-geral no n.° 31 das suas conclusões, nenhuma disposição do Regulamento n.° 44/2001 proíbe expressamente ao tribunal do Estado-Membro requerido verificar a exatidão das informações factuais contidas na certidão, dado que os artigos 36.° e 45.°, n.° 2, deste regulamento limitam a proibição da revisão de mérito unicamente à decisão judicial do Estado-Membro de origem” (pontos nº 33.º e 35.º).
+
+Demonstra, depois, que a certidão *foi incorretamente preenchida*:
+
+> "Na realidade, fazendo uso das informações prestadas na certidão prevista no art. 54.º junta aos autos (fls. 15), constata-se ser ela omissa quanto à indicação exigida da “data da citação ou notificação do acto que determinou o início da instância, no caso de a decisão ter sido proferida à revelia”, como foi. Mais rigorosamente, nesse item e no seu lugar, fez-se constar uma outra informação que nele não quadra, a da “Data da notificação: 14 de Junho de 2007”, correspondente ao dia em que decorreram as diligências com vista a notificar o requerido/apelante da sentença proferida no Tribunal de Pontoise, e não do acto que determinou o início da instância que, como é evidente, teria de ocorrer necessariamente antes, ou muito antes, da prolação da sentença em 3/04/2007."
+
+A decisão *não é* inovatória *nem* rebelde.
+
+### Acórdão de 20 de novembro de 2014, proc. 7614/12.4TBCSC.L1.S1
+
+**Objeto do litígio:** Foi pedido, ao abrigo do Regulamento Bruxelas I, o *exequatur* de sentença holandesa condenatória no pagamento de cerca 190.000,00 euros. Requerido alegou que a concessão de *exequatur* violava à ordem pública internacional portuguesa porque teria sido violado o princípio do processo equitativo, por o intérprete não ter desempenhado corretamente as suas funções.
+
+**Análise:** o STJ referiu:
+
+> "Ora a verdade é que ambas as partes estavam representadas por advogado, na audiência correspondente. Nada consta, na sentença, sobre uma eventual reacção da parte – insista-se, representada por advogado – quanto a uma hipotética inadequação da tradução, prejudicial à recorrente; e, portanto, nada consta sobre qualquer decisão do juiz no sentido de não ter em conta essa hipotética inadequação.
+
+> Não tem nenhum fundamento entender que é da ordem pública processual do Estado português exigir que seja o juiz a assegurar-se que, num processo civil em que as partes estão representadas por advogado, e em que os representantes de uma das partes não entendem a língua do processo mas são assistidos por um intérprete devidamente credenciado para o efeito, quando são chamados a depor em audiência, incumba ao juiz garantir mais do que essa possibilidade de intervenção do intérprete."
+
+> (...)
+
+> "Apenas se entende que: se a parte está representada por advogado; se é assistida por um intérprete formalmente credenciado; se não suscita perante o tribunal (ou em via de recurso) a incapacidade concreta do intérprete e a impossibilidade de prestação de depoimento esclarecido por incompreensão provocada por essa incapacidade de tradução, de modo a permitir uma eventual correcção e, de qualquer modo, a obter uma decisão sobre a questão, então não pode vir posteriormente invocar a violação do princípio da igualdade na produção de prova, ou desta vertente do processo equitativo, para impedir a exequibilidade da sentença que tenha valorado o depoimento, no contexto global de apreciação da prova."
+
+Concordo com a análise.
 # Artigo 71.º (relações com convenções internacionais)
 
 ## STJ
