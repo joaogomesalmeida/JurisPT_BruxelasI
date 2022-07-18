@@ -142,6 +142,12 @@ Ação de responsabilidade civil extracontratual por violação de direitos de p
 
 Considera preenchidos quer o critério da causalidade, quer o critério da coincidência (als. /a)/ e /b)/ do art. 62.º do CPC).
 
+*** Acórdão STJ de 7 de junho de 2022, proc. 4157/20.6T8STB.E1.S1
+
+Ação de responsabilidade civil extracontratual por violação de direitos de personalidade. O Regulamento Bruxelas I /bis/ não é aplicável, porque o réu não tem domicílio num Estado-Membro. Aplicação correta do artigo 4.º do Regulamento Bruxelas I /bis/.
+
+Considera preenchido o critério da causalidade (al. /b)/ do art. 62.º do CPC).
+
 *** Acórdão do STJ de 24 de maio de 2022, proc. 3853/20.2T8BRG.G1.S1
 
 Ação de responsabilidade civil extracontratual por violação de direitos de personalidade. O Regulamento Bruxelas I /bis/ não é aplicável, porque o réu não tem domicílio num Estado-Membro. Aplicação correta do artigo 4.º do Regulamento Bruxelas I /bis/.
@@ -620,6 +626,8 @@ Suscita, no entanto dúvidas a seguinte afirmação:
 30. Consequentemente, o caso em apreço encontra-se dentro do âmbito subjetivo de aplicação do Regulamento (UE) N.º 1215/2012, pois que todos os réus têm domicílio num Estado­membro (Portugal). *Para o efeito, bastava que apenas um o tivesse!* (negritos aditados)
 #+end_quote
 
+
+
 *** Acórdão STJ de 2 de junho de 2021, proc. 449/18.2T8FAR.E1.S1
 
 Pacto de jurisdição e DL das cláusulas contratuais gerais. STJ decide que a validade do pacto só depende dos requisitos previsto no artigo 25.º e a validade substantiva da lei do Estado-Membro do tribunal designado no pacto (neste caso, os Países Baixos).
@@ -634,8 +642,7 @@ Neste contexto, e mesmo que as especificidades do caso concreto pudessem configu
 
 Cita acórdão do STJ de e 14.7.2020, Revista nº 161/18.2T8FAR.E1.S1.
 
-*** Acórdão do STJ de 17 de dezembro de 2020, proc.
-12223/16.6T8PRT.P1.S1 {STJ12223}
+*** Acórdão do STJ de 17 de dezembro de 2020, proc. 12223/16.6T8PRT.P1.S1 {STJ12223}
     :PROPERTIES:
     :CUSTOM_ID: acórdão-do-stj-de-17-de-dezembro-de-2020-proc.-1222316.6t8prt.p1.s1-stj12223
     :END:
@@ -660,8 +667,11 @@ jurisdição, não havendo transmissão do pacto de jurisdição celebrado
 entre a Autora e a Primland (contrato escrito) para o contrato celebrado
 entre a Autora e a Portprimland (contrato verbal).
 
-*não cita jurisprudência europeia. Verificar se há jurisprudência
-europeia sobre a transmissão do pacto de jurisdição*
+*não cita jurisprudência europeia.*
+
+Segundo o Acórdão de 21 de maio de 2015, CDC Hydrogen Peroxide, C‑352/13, EU:C:2015:335, n.º 65 e jurisprudência referida, o pacto só é oponível a terceiro quando este suceda um dos contraentes na sua posição contratual (não é o caso do acórdão) segundo o direito material aplicável determinável segundo o direito de conflitos do foro. Ver, quanto à cessão de créditos, o acórdão /Ryanair/, C-519/19.
+
+
 *** Acórdão do STJ de 12 de setembro de 2019, proc. 64/17.8TNLSB.L1.S1
     :PROPERTIES:
     :CUSTOM_ID: acórdão-do-stj-de-12-de-setembro-de-2019-proc.-6417.8tnlsb.l1.s1
@@ -835,6 +845,8 @@ o Direito material português para ver as regras da cessão, o que é no
 mínimo discutível, até está em causa um requisito de forma e, aceitando
 que o contrato de cessão de posição contratual é internacional, seria
 aplicável o artigo 11.º do Regulamento Roma I.
+
+Segundo o Acórdão de 21 de maio de 2015, CDC Hydrogen Peroxide, C‑352/13, EU:C:2015:335, n.º 65 e jurisprudência referida, o pacto só é oponível a terceiro quando este suceda um dos contraentes na sua posição contratual segundo o direito material aplicável, determinável segundo o direito de conflitos do foro. Ver, quanto à cessão de créditos, o acórdão /Ryanair/, C-519/19.
 
 *** Acórdão do STJ de 19 de dezembro de 2018, proc. 2312/16.2T8FNC.L1.S1
     :PROPERTIES:
