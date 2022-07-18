@@ -969,8 +969,7 @@ jurisdição.
 
 Depois desta conclusão passa a análise do [artigo 7.º]{STJ6919}.
 
-*** Acórdão do STJ de 9 de fevereiro de 2017, proc.
-1387/15.6T8PRT-B.L1.P1-A
+*** Acórdão do STJ de 9 de fevereiro de 2017, proc. 1387/15.6T8PRT-B.L1.P1-A
     :PROPERTIES:
     :CUSTOM_ID: acórdão-do-stj-de-9-de-fevereiro-de-2017-proc.-138715.6t8prt-b.l1.p1-a
     :END:
@@ -993,8 +992,7 @@ STJ decidiu bem, pois o pacto de jurisdição prevalece sobre a
 competência por conexão (embora não tenha citado, por exemplo, o caso
 /Estasis/ 24/76).
 
-*** Acórdão do STJ de 6 de setembro de 2016, proc.
-1386/15.8T8PRT-B.P1.S1
+*** Acórdão do STJ de 6 de setembro de 2016, proc. 1386/15.8T8PRT-B.P1.S1
     :PROPERTIES:
     :CUSTOM_ID: acórdão-do-stj-de-6-de-setembro-de-2016-proc.-138615.8t8prt-b.p1.s1
     :END:
@@ -1236,8 +1234,7 @@ Conclusão:
   aplicação da disciplina contida no art. 23º do Regulamento 44/2001."
 #+end_quote
 
-*** Acórdão do STJ de 11 de fevereiro de 2015, proc.
-877/12.7TVLSB.L1-A.S1
+*** Acórdão do STJ de 11 de fevereiro de 2015, proc. 877/12.7TVLSB.L1-A.S1
     :PROPERTIES:
     :CUSTOM_ID: acórdão-do-stj-de-11-de-fevereiro-de-2015-proc.-87712.7tvlsb.l1-a.s1
     :END:
