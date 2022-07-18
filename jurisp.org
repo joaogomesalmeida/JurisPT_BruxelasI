@@ -118,6 +118,40 @@ Bruxelas I /bis/.
    :PROPERTIES:
    :CUSTOM_ID: stj-2
    :END:
+*** Acórdão do STJ de 23 de junho de 2022, proc. 3239/20.9T8CBR-A.C1.S1
+
+Ação de responsabilidade civil extracontratual por violação de direitos de personalidade. O Regulamento Bruxelas I /bis/ não é aplicável, porque o réu não tem domicílio num Estado-Membro. Aplicação correta do artigo 4.º do Regulamento Bruxelas I /bis/.
+
+Jurisprudência do STJ (sumário do acordão):
+
+#+begin_quote
+I. De acordo com a jurisprudência anterior do STJ: (i) São internacionalmente competentes para conhecer o mérito de uma acção de responsabilidade civil extracontratual, por violação de direitos de personalidade através de conteúdos mundialmente difundidos, os tribunais do país onde se encontra o centro de interesses do lesado durante o período em que ocorrem os danos provocados por essa ofensa; (ii) Os tribunais portugueses são, pois, internacionalmente competentes, nos termos do art. 62.º, b), do CPC, para decidirem uma acção em que um jogador profissional de futebol que exerceu, predominantemente, a sua actividade em Portugal, pede uma indemnização pelos danos causados pela utilização, não consentida, do seu nome e imagem em videojogos produzidos nos ... e divulgados por todo o mundo.
+
+II. Nos casos em que os danos se prolongam no tempo e o centro de interesses do lesado vai variando ao longo desse tempo, localizando-se em diferentes Estados, a acção em que se reclama o pagamento de uma indemnização por tais danos poderá ser intentada em qualquer uma das respectivas jurisdições, desde que se verifique um elo suficientemente forte entre a causa e o foro escolhido para fundamentar a competência internacional dos seus tribunais.
+
+III. No caso dos autos, constata-se que não é possível seguir-se o critério enunciado em I., uma vez que, entre os diferentes países em que o lesado desenvolveu a sua actividade profissional, não é possível identificar um que seja entre todos prevalecente e, portanto, não é possível identificar a existência de um centro de interesses predominante.
+
+IV. Quanto à aplicação do critério enunciado em II., considera-se que, ao interpor a presente acção nos tribunais portugueses, optou o autor por uma das jurisdições nas quais os danos terão ocorrido (art. 62.º, al. b), do CPC), a qual configura, no contexto concreto da factualidade alegada, um elo suficientemente intenso entre a acção e o foro escolhido, que, por isso mesmo, merece acolhimento.
+#+end_quote
+
+Parece seguir jurisprudência do TJUE.
+
+*** Ac. do STJ de 7 de junho de 2022, proc. 24974/19.9T8LSB.L1.S1
+
+Ação de responsabilidade civil extracontratual por violação de direitos de personalidade. O Regulamento Bruxelas I /bis/ não é aplicável, porque o réu não tem domicílio num Estado-Membro. Aplicação correta do artigo 4.º do Regulamento Bruxelas I /bis/.
+
+Considera preenchidos quer o critério da causalidade, quer o critério da coincidência (als. /a)/ e /b)/ do art. 62.º do CPC).
+
+*** Acórdão do STJ de 24 de maio de 2022, proc. 3853/20.2T8BRG.G1.S1
+
+Ação de responsabilidade civil extracontratual por violação de direitos de personalidade. O Regulamento Bruxelas I /bis/ não é aplicável, porque o réu não tem domicílio num Estado-Membro. Aplicação correta do artigo 4.º do Regulamento Bruxelas I /bis/.
+
+Considera os tribunais portugueses internacionalmente competentes por força do critério da causalidade (al. /b)/ do artigo 62.º do CPC).
+
+*** Acórdão do STJ de 13 de janeiro de 2022, proc. 368/08.0TTFUN.L1.S1-A
+
+Ação emergente de acidente de trabalho. Empregador tem sede em Estado terceiro e não tem, de acordo com os dados do processo, qualquer filial ou sucursal num Estado-Membro. Atendendo à data da propositura da ação, era aplicável o Regulamento Bruxelas I. Tribunal aplica corretamente o art. 2.º e 4.º desse Regulamento e analisa a competência internacional segundo as normas de direito interno.
+
 *** Acórdão do STJ de 13 de outubro de 2020, proc. 14445/18.6T8LSB.L1.S1
     :PROPERTIES:
     :CUSTOM_ID: STJ14445
@@ -125,7 +159,6 @@ Bruxelas I /bis/.
 Regulamento Bruxelas I /bis/ não é aplicável, porque o réu não tem
 domicílio num Estado-Membro. Aplicação correta do artigo 4.º do
 Regulamento Bruxelas I /bis/.
-
 *** Acórdão do STJ de 29 de outubro de 2020, proc.
 23592/17.0T8LSB-A.L1.S1
     :PROPERTIES:
@@ -193,8 +226,11 @@ analogia, uma vez que aplica a Convenção de Lugano II.
    :PROPERTIES:
    :CUSTOM_ID: stj-3
    :END:
-*** Acórdão do STJ de 10 de dezembro de 2020, proc.
-1608/19.6T8GMR.G1.S1:
+*** Acórdão do STJ de 14 de outubro de 2021, proc. 26412/16.0T8LSB.L1-A.S1
+
+DECO intentou ação de responsabilidade extracontratual contra a Volkswagen, por causa da manipulação dos dados relativos a emissões de gases de escape. Tribunal decidiu a interpretação do artigo 7.º, n.º 2, do Regulamento Bruxelas I /bis/, seguindo a jurisprudência do TJUE, ac. 9 de julho de 2020, Verein für Konsumenteinformation c. Volkswagen AG,  C- 343/19 (entre outros). Recusou o pedido de reenvio prejudical e julgou os tribunais portugueses internacionalmente competentes.
+
+*** Acórdão do STJ de 10 de dezembro de 2020, proc. 1608/19.6T8GMR.G1.S1:
     :PROPERTIES:
     :CUSTOM_ID: acórdão-do-stj-de-10-de-dezembro-de-2020-proc.-160819.6t8gmr.g1.s1
     :END:
@@ -222,7 +258,6 @@ de 2011 (Processo n.º C-87/10); - de 5 de Abril de 2016 (Processo n.º
 que tinha sido já aplicado pelo Tribunal da Relação.
 
 *Conclusão:* está de acordo com a jurisprudência europeia.
-
 *** Acórdão do STJ de 13 de outubro de 2020, proc. 14445/18.6T8LSB.L1.S1
     :PROPERTIES:
     :CUSTOM_ID: acórdão-do-stj-de-13-de-outubro-de-2020-proc.-1444518.6t8lsb.l1.s1
@@ -258,8 +293,7 @@ foro em que se situa o lugar de partida, /quer/ no foro em que se situa
 o lugar de chegada. No [[#STJ23592][Acórdão do STJ de 29 de outubro de
 2020, proc. 23592/17.0T8LSB-A.L1.S1]] este erro ligeiro foi corrigido.
 
-*** Acórdão do STJ de 29 de outubro de 2020, proc.
-23592/17.0T8LSB-A.L1.S1
+*** Acórdão do STJ de 29 de outubro de 2020, proc. 23592/17.0T8LSB-A.L1.S1
     :PROPERTIES:
     :CUSTOM_ID: STJ23592
     :END:
@@ -560,6 +594,46 @@ Acórdão do TJUE, proc. C-4/03:
    :PROPERTIES:
    :CUSTOM_ID: stj-5
    :END:
+*** Acórdão do STJ de 7 de outubro de 2021, proc. 448/18.4T8FAR.E1.S1
+
+Pacto de jurisdição e DL das cláusulas contratuais gerais. STJ decide que a validade do pacto só depende dos requisitos previsto no artigo 25.º e a validade substantiva da lei do Estado-Membro do tribunal designado no pacto (neste caso, os Países Baixos). Menciona considerando 20. Interpreta o novo requisito do substantivamente nulo. Suscita dúvidas a referência ao "Direito processual nacional":
+
+#+begin_quote
+Nos termos do Considerando (20) do Regulamento «A questão de saber se o pacto atributivo de jurisdição a favor de um tribunal ou dos tribunais de um Estado-Membro é nulo quanto à sua validade substantiva deverá ser decidida segundo a lei do Estado-Membro do tribunal designado no pacto, incluindo as regras de conflitos de leis desse Estado-Membro».
+
+ Neste quadro normativo-constitucional, a validade substancial da cláusula contratual que atribui competência ao tribunal de um Estado-Membro da UE não pode ser aferida pelo direito processual nacional, mas pelo direito comunitário e pelo direito holandês, não tendo sido invocadas pela Autora quaisquer normas direito holandês que pudessem invalidar esta cláusula, que respeitou os requisitos formais e substanciais estabelecidos no artigo 25.º do Regulamento n.º 1215/2012.
+#+end_quote
+
+Caso que envolve empresas do grupo Driscoll, tal como o Acórdão de 2 de junho de 2021, proc. 449/18.2T8FAR.E1.S1.
+
+*** Acórdão STJ de 8 de junho de 2021, proc. 20526/18.9T8LSB.L1.S1
+
+Pacto de jurisdição constante do contrato de sociedade (contrato social) a favor de tribunal brasileiro. Ação de responsabilidade extracontratual intentada por pessoas que não fazem parte da sociedade contra dois réus, com domicílio em Portugal, decorrente de uma representação sem poderes ilícita e dolosa na alienação de participação social de que a Autora era titular na Novo Horizonte Investimentos Imobiliários e Participações LTDA.
+
+Tribunal decide corretamente que ao pacto não é aplicável o artigo 25.º do Regulamento Bruxelas I /bis/, porque não atribui competência ao(s) tribunal(ais) de um Estado-Membro.
+
+Atendendo a que os réus têm domicílio em Portugal, os tribunais portugueses são internacionalmente competentes nos termos do artigo 4.º.
+
+Suscita, no entanto dúvidas a seguinte afirmação:
+
+#+begin_quote
+30. Consequentemente, o caso em apreço encontra-se dentro do âmbito subjetivo de aplicação do Regulamento (UE) N.º 1215/2012, pois que todos os réus têm domicílio num Estado­membro (Portugal). *Para o efeito, bastava que apenas um o tivesse!* (negritos aditados)
+#+end_quote
+
+*** Acórdão STJ de 2 de junho de 2021, proc. 449/18.2T8FAR.E1.S1
+
+Pacto de jurisdição e DL das cláusulas contratuais gerais. STJ decide que a validade do pacto só depende dos requisitos previsto no artigo 25.º e a validade substantiva da lei do Estado-Membro do tribunal designado no pacto (neste caso, os Países Baixos).
+
+Analisa a questão do litisconsórcio necessário passivo:
+
+#+begin_quote
+inda muito recentemente, num caso com contornos semelhantes aos destes autos, este Supremo Tribunal entendeu que eventual litisconsórcio necessário natural do lado passivo não afastava a aplicação de uma cláusula atributiva de jurisdição que cumpra os requisitos formais e substanciais estabelecidos no art. 25.º do Regulamento (UE) n.º 1215/2012, não se permitindo, por isso, que a parte que deveria ser demandada no tribunal de um outro Estado-Membro da União Europeia, de acordo com o que foi convencionado, possa ser demandada em Portugal em virtude de a autora poder ter configurado a ação em termos que exigem a demanda de um terceiro estranho ao pacto de jurisdição.[11]
+
+Neste contexto, e mesmo que as especificidades do caso concreto pudessem configurar, à luz da lei processual portuguesa, um caso de litisconsórcio necessário natural, a verdade é que, contrariamente ao que parece defender a recorrente, a questão da interpretação, validade e eficácia de um pacto atributivo de jurisdição a tribunais de outros Estados-Membros da União Europeia não pode ser equacionada em função dos conceitos normativos da ordem jurídica portuguesa.
+#+end_quote
+
+Cita acórdão do STJ de e 14.7.2020, Revista nº 161/18.2T8FAR.E1.S1.
+
 *** Acórdão do STJ de 17 de dezembro de 2020, proc.
 12223/16.6T8PRT.P1.S1 {STJ12223}
     :PROPERTIES:
@@ -588,7 +662,6 @@ entre a Autora e a Portprimland (contrato verbal).
 
 *não cita jurisprudência europeia. Verificar se há jurisprudência
 europeia sobre a transmissão do pacto de jurisdição*
-
 *** Acórdão do STJ de 12 de setembro de 2019, proc. 64/17.8TNLSB.L1.S1
     :PROPERTIES:
     :CUSTOM_ID: acórdão-do-stj-de-12-de-setembro-de-2019-proc.-6417.8tnlsb.l1.s1
@@ -1317,6 +1390,28 @@ Amministrazione del tesoro dello Stato/
    :PROPERTIES:
    :CUSTOM_ID: stj-7
    :END:
+*** Acórdão de 24 de maio de 2022, proc. 1279/20.7T8FAR.E1.S2
+
+STJ decide corretamente que o regime de reconhecimento (no caso da Convenção de Lugano) não depende da verificação das regras de competência internacional.
+
+*** Acórdão de 17 de novembro de 2020, proc. 6471/17.9T8BRG.G1.S1
+    :PROPERTIES:
+    :CUSTOM_ID: STJ6471
+    :END:
+*Objeto do litígio:* contrato de transporte de mercadorias por estrada,
+cujo local de carregamento ou recolha de mercadorias (a cargo do
+transportador) foi Esmeriz/Portugal, e o de entrega era
+Copenhaga/Dinamarca.
+
+Cita, sobre o artigo 71.º: - Acórdão do TJUE (Terceira Secção) de 28 de
+outubro de 2004, /Nürnberger Allgemeine Versicherungs AG contra
+Portbridge Transport International BV/, C-148/03; - Acórdão do TJUE
+(Grande Secção) de 4 de maio de 2010, /TNT Express Nederland BV contra
+AXA Versicherung AG/, Proc. C-533/08 - Acórdão do TJUE (Terceira Secção)
+de 19 de dezembro de 2013, Nipponkoa Insurance Co. (Europe) Ltd contra
+Inter-Zuid Transport BV, Processo C-452/12 - Acórdão do TJUE (Primeira
+Secção) de 4 de setembro de 2014, Nickel & Goeldner Spedition GmbH
+contra «Kintra» UAB, Processo C 157/13
 *** Acórdão de 14 de março de 2017, proc. 736/14.9TVLSB.L1.S1
     :PROPERTIES:
     :CUSTOM_ID: acórdão-de-14-de-março-de-2017-proc.-73614.9tvlsb.l1.s1
@@ -1549,24 +1644,17 @@ desempenhado corretamente as suas funções.
 Concordo com a análise. # Artigo 71.º (relações com convenções
 internacionais)
 
-*** Acórdão de 17 de novembro de 2020, proc. 6471/17.9T8BRG.G1.S1
-    :PROPERTIES:
-    :CUSTOM_ID: STJ6471
-    :END:
-*Objeto do litígio:* contrato de transporte de mercadorias por estrada,
-cujo local de carregamento ou recolha de mercadorias (a cargo do
-transportador) foi Esmeriz/Portugal, e o de entrega era
-Copenhaga/Dinamarca.
+* Disposições transitórias
+** STJ
+*** Acórdão do STJ de 22 de junho de 2021, proc. 878/17.9T8VNF-D.G1.S1
 
-Cita, sobre o artigo 71.º: - Acórdão do TJUE (Terceira Secção) de 28 de
-outubro de 2004, /Nürnberger Allgemeine Versicherungs AG contra
-Portbridge Transport International BV/, C-148/03; - Acórdão do TJUE
-(Grande Secção) de 4 de maio de 2010, /TNT Express Nederland BV contra
-AXA Versicherung AG/, Proc. C-533/08 - Acórdão do TJUE (Terceira Secção)
-de 19 de dezembro de 2013, Nipponkoa Insurance Co. (Europe) Ltd contra
-Inter-Zuid Transport BV, Processo C-452/12 - Acórdão do TJUE (Primeira
-Secção) de 4 de setembro de 2014, Nickel & Goeldner Spedition GmbH
-contra «Kintra» UAB, Processo C 157/13
+Sumário:
+
+#+begin_quote
+A disposição transitória constante do art. 66.º, n.º 2, do Regulamento n.º 1215/2012, ao mandar aplicar o Regulamento n.º 44/2001 às decisões proferidas (pelos tribunais dos Estados-Membros) em ações judiciais intentadas antes de 10-01-2015, quer dizer que, independentemente da data da prolação de tais decisões e da data em que venham a ser executadas, precisam tais decisões, para poder ser executadas, da prévia obtenção da declaração de executoriedade constante do art. 38.º, n.º 1, do Regulamento n.º 44/2001 (não lhes sendo aplicável a supressão do exequátur do art. 39.º do Regulamento n.º 1215/2012).
+#+end_quote
+
+O Acórdão decide corretamente.
 
 * DONE Obter doutrina
 CLOSED: [2021-07-12 Mon 12:41]
